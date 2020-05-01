@@ -6,6 +6,6 @@
 
  To convert the chat of a meeting into a _.md_ file, you'll have to copy all the messages, just by pressing _ctrl+a_ and _ctrl+c_, then paste it into a _.txt_ file encoded using the _utf-8_ standard. Then run the tool in that directory by using `python exercism-meetings.py --input .txtfile --output .mdfile --date dateOfMeeting`. You can also just run the _.exe_ file in the _bin_ directory of the _tool_ folder.
 
- If you have any suggestions or if you want to add your own code, then feel free to do so! You can also add your own _.md_ file from meeting if I missed the meeting.
+ If you have any suggestions or if you want to add your own code, then feel free to do so! You can also add your own _.md_ file from meeting if I missed the meeting. Just create a _pull request_.
 
  - J08K (Job van der Wal)
