@@ -1,0 +1,1215 @@
+
+
+18:59
+
+zuzia-kru
+
+Hi everyone :)
+
+
+
+
+18:59
+
+Me
+
+Hello!
+
+
+
+
+19:00
+
+Erik (ErikSchierboom)
+
+Hi!
+
+
+
+
+19:00
+
+Sascha
+
+Hi!
+
+
+
+
+19:00
+
+pvcarrera (Pablo Vicente)
+
+Hi!
+
+
+
+
+19:00
+
+zuzia-kru
+
+Anyone else excited for a longer weekend? (in countries that celebrate a bank holiday tomorrow) 😃
+
+
+
+
+19:01
+
+Erik (ErikSchierboom)
+
+No bank holiday in the Netherlands, but May 5th is Liberation Day (WW2), so it _is_ a long weekend :)
+
+
+
+
+19:01
+
+Me
+
+yeahh
+
+
+
+
+19:01
+
+Sascha
+
+You just had King's Day too, didn't you?
+
+
+
+
+19:01
+
+Me
+
+yup we did 
+
+
+
+
+19:01
+
+Me
+
+still have a mini dutch flag besides me
+
+
+
+
+19:02
+
+Erik (ErikSchierboom)
+
+Jep
+
+
+
+
+19:03
+
+pvcarrera (Pablo Vicente)
+
+In Spain we are still on lock down so we don't have to work but we have to stay at home :)
+
+
+
+
+19:04
+
+KOTP (Vic)
+
+Holidays have been cancelled until further notice.
+
+
+
+
+19:04
+
+Erik (ErikSchierboom)
+
+I imagine having to stay at home is hard
+
+
+
+
+19:04
+
+Me
+
+oh, well we have are in the middle of an "intelligent lockdown"
+
+
+
+
+19:04
+
+zuzia-kru
+
+Yep, I'm in Spain but still excited to not work
+
+
+
+
+19:08
+
+Nic {'.'}
+
+Brooks++ :)
+
+
+
+
+19:08
+
+DJ (SleeplessByte)
+
+⬆ https://research.exercism.io/ 
+Research Website
+
+
+
+
+19:09
+
+DJ (SleeplessByte)
+
+⬆ https://github.com/exercism/research_experiment_1/pull/138
+One more PR to get that exercise on there
+
+
+
+
+19:11
+
+DJ (SleeplessByte)
+
+⬆ https://www.youtube.com/watch?v=gkbBqd7hPrA&t=1s
+Video on Concept Exercises
+
+
+
+
+19:11
+
+DJ (SleeplessByte)
+
+⬆  https://www.youtube.com/watch?v=esQhPx2U1uk&t=91s
+Video on Forking a Concept Exercise
+
+
+
+
+19:13
+
+DJ (SleeplessByte)
+
+🎉🎉 Yay for the Wizard
+
+
+
+
+19:13
+
+Me
+
+Woohoo
+
+
+
+
+19:14
+
+DJ (SleeplessByte)
+
+This was the thing that broke windows right
+
+
+
+
+19:14
+
+Mark Simpson (mjs)
+
+yes it did
+
+
+
+
+19:14
+
+Mark Simpson (mjs)
+
+but fixed now
+
+
+
+
+19:14
+
+Erik (ErikSchierboom)
+
+Yep
+
+
+
+
+19:14
+
+BethanyG
+
+Python has a similar one :  https://github.com/exercism/v3/tree/master/languages/python/bin
+
+
+
+
+19:15
+
+DJ (SleeplessByte)
+
+⬆ https://github.com/exercism/v3/pull/1350
+
+The PR about the Boilerplater for Common Lisp
+
+
+
+
+19:17
+
+DJ (SleeplessByte)
+
+Also 👋🏽 Nic
+
+
+
+
+19:19
+
+Sascha
+
+CI check: connect to their YT accounts and search their watch history for the video 
+
+
+
+
+19:19
+
+Nic {'.'}
+
+👋🏽
+
+
+
+
+19:19
+
+Erik (ErikSchierboom)
+
+@sascha :D
+
+
+
+
+19:20
+
+DJ (SleeplessByte)
+
+hahahaha
+
+
+
+
+19:20
+
+DJ (SleeplessByte)
+
+I won't link it
+
+
+
+
+19:20
+
+Erik (ErikSchierboom)
+
+Don't :)
+
+
+
+
+19:21
+
+Bobby Towers (porkostomus)
+
+lol I can't see or hear anyone but glad I came for the chat :)
+
+
+
+
+19:21
+
+Erik (ErikSchierboom)
+
+lol!
+
+
+
+
+19:22
+
+DJ (SleeplessByte)
+
+📜 For Bobby: Jeremy is talking about an Exercism Bot to help us out remove some personal feeling when someone's PR doesn't align with the things we need at Exercism at the moment.
+
+
+
+
+19:22
+
+Corey (cmccandless)
+
+Another benefit of that "cookie-cutter" feedback coming from a clearly automated source: it strips that "personal attack" feel from the feedback so the contributor is less likely to be put off in receiving it.
+
+
+
+
+19:22
+
+DJ (SleeplessByte)
+
+📜 It would automatically do a first review, removing the stress from one of the maintainers to have to say "this is wrong".
+
+
+
+
+19:23
+
+DJ (SleeplessByte)
+
+Yep, @Corey, I agree with that. 
+
+
+
+
+19:23
+
+Bobby Towers (porkostomus)
+
+oh cool
+
+
+
+
+19:23
+
+DJ (SleeplessByte)
+
+📜 Erik is currently saying: please keep tagging me if you need me, for example if it's your first exercise.
+
+
+
+
+19:24
+
+DJ (SleeplessByte)
+
+👋🏽 Taiyab is here
+
+
+
+
+19:24
+
+DJ (SleeplessByte)
+
+📜 Erik is also suggesting to do an Early Draft PR -- it's easier to receive feedback there and definitely ask for help. We can also help with writing stories
+
+
+
+
+19:25
+
+Sascha
+
+https://github.com/exercism/v3/tree/master/reference/stories
+
+
+
+
+19:25
+
+DJ (SleeplessByte)
+
+📜 We also have a folder to write stories to which people can use, which Sacha just posted.
+
+
+
+
+19:25
+
+wolf99
+
+An example of that is a recent x86 concept exercise PR
+
+
+
+
+19:26
+
+DJ (SleeplessByte)
+
+📜 Jeremy is saying: One of the main frustrations is the difference in the level of feedback a PR requires. It's basically difficult to get the right balance between nitpicking and global feedback.
+
+
+
+
+19:26
+
+Erik (ErikSchierboom)
+
+@wolf99 Yes, that was a brilliant example!
+
+
+
+
+19:26
+
+wolf99
+
+https://github.com/exercism/v3/pull/1356
+
+
+
+
+19:27
+
+DJ (SleeplessByte)
+
+📜 Erik is re-enforcing that we have an example where this draft-first process worked really well.
+
+
+
+
+19:28
+
+DJ (SleeplessByte)
+
+📜  Jeremy is proposing to standardise a draft-first approach across the v3 repo. We would suggest to PR instructions.md (story exists, it's not offensive) and a sample "implementation".
+
+
+
+
+19:29
+
+DJ (SleeplessByte)
+
+📜 This will enable us to give feedback on the story/is-this-a-good-concept-exercise phase and then on the nitty-picky stuff later.
+
+
+
+
+19:29
+
+DJ (SleeplessByte)
+
+(Bobby is gone so I'll stop transcribing, unless someone needs it. Please just ping me)
+
+
+
+
+19:29
+
+DJ (SleeplessByte)
+
+👍🏽👍🏽👍🏽👍🏽
+
+
+
+
+19:29
+
+DJ (SleeplessByte)
+
+👍🏽👍🏽👍🏽👍🏽
+
+
+
+
+19:30
+
+Sascha
+
+:+1:
+
+
+
+
+19:30
+
+DJ (SleeplessByte)
+
+🥇
+
+
+
+
+19:30
+
+Sascha
+
+👀
+
+
+
+
+19:30
+
+Sascha
+
+🏃‍♂️
+
+
+
+
+19:30
+
+DJ (SleeplessByte)
+
+🙈
+
+
+
+
+19:33
+
+DJ (SleeplessByte)
+
+- Poetry club door policy (strings)
+- RPG free your best friend (boolean)
+- Translate service for Klingon
+
+
+
+
+19:33
+
+Sascha
+
+We could automate spellchecking to make it less personal: https://github.com/marketplace/actions/spellcheck-action
+
+
+
+
+19:33
+
+DJ (SleeplessByte)
+
+I'll extract the ones I've done so far
+
+
+
+
+19:35
+
+Sascha
+
+Hi Scott 👋
+
+
+
+
+19:35
+
+DJ (SleeplessByte)
+
+I think a new contributor for JS is now building on top of the arrays (card magician) exercise (which is basically a remodel of the research exercise I did) and using that for two more exercises.
+
+
+
+
+19:35
+
+Scott Paul Jones
+
+Sorry I'm late!
+
+
+
+
+19:36
+
+Jeremy Walker (iHiD)
+
+No probs :)
+
+
+
+
+19:40
+
+DJ (SleeplessByte)
+
+https://github.com/exercism/v3/issues/1087
+
+
+
+
+19:40
+
+DJ (SleeplessByte)
+
+⬆ the issue by Mike
+
+
+
+
+19:42
+
+wolf99
+
+Is help wanted on that issue?
+
+
+
+
+19:42
+
+KOTP
+
+The experiment continues.
+
+
+
+
+19:43
+
+Erik (ErikSchierboom)
+
+@wolf99 It would be interesting to check if you think the current documentation solves many of those points in the issue
+
+
+
+
+19:43
+
+DJ (SleeplessByte)
+
+https://research.exercism.io/
+
+
+
+
+19:43
+
+DJ (SleeplessByte)
+
+(I know I've linked it before)
+
+
+
+
+19:43
+
+wolf99
+
+@Erik +1
+
+
+
+
+19:43
+
+Erik (ErikSchierboom)
+
+Although the indirect way to go about that would be to build an exercise and note what you think is unclear
+
+
+
+
+19:43
+
+Erik (ErikSchierboom)
+
+:)
+
+
+
+
+19:44
+
+DJ (SleeplessByte)
+
+If you want to play with the JavaScript v3 Exercises in a similar "system": http://exercism-playground.derk-jan.com/
+
+
+
+
+19:45
+
+DJ (SleeplessByte)
+
+(for context, Jeremy and I have talked about how much I hated it for hours and hours)
+
+
+
+
+19:50
+
+Sascha
+
+"Feature" request: It would be nice to have a brief, regular (maybe fortnightly?) update/changelog for doc changes etc. Sometimes there are changes to the docs, or directory structures and it's hard to notice when you've been involved in v3 for some time. The commit log has all the info but it's not curated at all.
+
+
+
+
+19:51
+
+Sascha
+
+sure
+
+
+
+
+19:52
+
+DJ (SleeplessByte)
+
+GET ALL THE REPUTATION
+
+
+
+
+19:52
+
+Me
+
+So basically turning mentoring into a game??
+
+
+
+
+19:53
+
+Sascha
+
+:P
+
+
+
+
+19:53
+
+Erik (ErikSchierboom)
+
+@Job Well, sort of. But mostly to reward people
+
+
+
+
+19:54
+
+Me
+
+so... basically an rpg
+
+
+
+
+19:54
+
+DJ (SleeplessByte)
+
+https://exercism-team.slack.com/files/UE465JWDP/F013JTAH6RW/download.png
+
+
+
+
+19:54
+
+Me
+
+*mmorpg
+
+
+
+
+19:54
+
+Me
+
+nah nvm just mmo
+
+
+
+
+19:55
+
+DJ (SleeplessByte)
+
+Obviously I get all the credits. That seems fair to me.
+
+
+
+
+19:55
+
+Erik (ErikSchierboom)
+
+RPGs _were_ an inspiration for v2 BTW. Progressing and unlocking things.
+
+
+
+
+19:55
+
+DJ (SleeplessByte)
+
+Stackoverflowy
+
+
+
+
+19:55
+
+KOTP
+
+RPG = Real Programming Game?
+
+
+
+
+19:56
+
+Taiyab Raja
+
+^^^
+
+
+
+
+19:56
+
+Me
+
+OH YES
+
+
+
+
+19:56
+
+Taiyab Raja
+
+Genuis @KOTP
+
+
+
+
+19:56
+
+Taiyab Raja
+
+Genius*
+
+
+
+
+19:56
+
+Erik (ErikSchierboom)
+
+:D
+
+
+
+
+19:56
+
+wolf99
+
+Sorry: off topic from the question at hand: Does credits to obtain mentoring mean that people that are already good at some programming languages will essentially get preferential treatment in other tracks? If so this could leave people that are newer to programming, are struggle more, always having slower mentor feedback because they have less credits and less chance to build credits?
+
+
+
+
+19:56
+
+Sascha
+
+Do it the other way around: code golf scoring
+
+
+
+
+19:58
+
+DJ (SleeplessByte)
+
+(which I have)
+
+
+
+
+19:58
+
+Me
+
+We do want to avoid mentors from focussing on the "most rewarding" language 
+
+
+
+
+19:58
+
+Erik (ErikSchierboom)
+
+@wolf99 The idea is that newer people would receive a steady, fixed amount of credits, so they would be able to also receive the mentoring benefits. This is the thing we need to be careful about
+
+
+
+
+20:00
+
+Erik (ErikSchierboom)
+
+We're definitely aware of possible issues of fairness and rest assured, being inclusive and fair is one of Exercism's core tenets
+
+
+
+
+20:00
+
+wolf99
+
+:)
+
+
+
+
+20:00
+
+zuzia-kru
+
+I think it could be a great push for beginners if there's a way to show them that you don't have to know everything to help someone else...having said that I wouldn't know how to achieve that exactly
+
+
+
+
+20:01
+
+Erik (ErikSchierboom)
+
+Yes! That is absolutely one of the things we want to encourage. Excellent point 
+
+
+
+
+20:04
+
+DJ (SleeplessByte)
+
+⌛ 5 past the hour, but we don't need to 🏃🏽‍♂️
+
+
+
+
+20:09
+
+Corey (cmccandless)
+
+Could we work out a way for individuals to put up their own credits as a bounty for certain GitHub issues?
+
+
+
+
+20:09
+
+Noah Betzen
+
+Do we need to ask some economists for how to implement an Exercism economy?
+
+
+
+
+20:09
+
+DJ (SleeplessByte)
+
+We need a sink
+
+
+
+
+20:09
+
+KOTP
+
+Mentoring that student and encouraging them to mentor others is a positive sum transaction though.
+
+
+
+
+20:09
+
+Sascha
+
+Bring in a game designer, not an economist :D 
+
+
+
+
+20:10
+
+Me
+
+I mean my mom is an economist
+
+
+
+
+20:10
+
+Sascha
+
+MMO economies have the same issues
+
+
+
+
+20:10
+
+wolf99
+
+We'll end up with a "Jon Skeet" rep billionaire of Exercism :D
+
+
+
+
+20:10
+
+Me
+
+I'll talk to her\
+
+
+
+
+20:10
+
+Nic {'.'}
+
+Let's get a guest Economist on the next call. :)
+
+
+
+
+20:10
+
+Me
+
+hahaha, I'll try to get my mom on the next call
+
+
+
+
+20:11
+
+Erik (ErikSchierboom)
+
+:)
+
+
+
+
+20:11
+
+DJ (SleeplessByte)
+
+1. tie it to real world money
+2. add a cap
+3. have a real sink (like time)
+
+
+
+
+20:11
+
+Me
+
+and no... I'm not "mommy's special little boy"
+
+
+
+
+20:11
+
+Me
+
+XD
+
+
+
+
+20:12
+
+DJ (SleeplessByte)
+
+(this is why there is a max of 500 (?) on SO)
+
+
+
+
+20:12
+
+Erik (ErikSchierboom)
+
+Yep, I was just about to mention that
+
+
+
+
+20:12
+
+Erik (ErikSchierboom)
+
+They have the same issues and years of experience
+
+
+
+
+20:12
+
+Erik (ErikSchierboom)
+
+They=StackOverflow
+
+
+
+
+20:12
+
+Me
+
+okay, I will try to copy the chat and format it into a .md file and put it on slack so people can look at the chat too
+
+
+
+
+20:13
+
+Noah Betzen
+
+Credits could have a decay rate (aka a "sink" in the form of time).
+
+
+
+
+20:13
+
+Nic {'.'}
+
+Bye for now.
+
