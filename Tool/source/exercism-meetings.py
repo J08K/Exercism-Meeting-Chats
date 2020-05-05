@@ -2,6 +2,9 @@ import emoji
 from string import digits
 from sys import argv
 
+class standardVariables():
+    name = "J08K (Job van der Wal)"
+
 class toMarkdown():
     def __init__(self, filepath):
         try:
@@ -25,12 +28,12 @@ class toMarkdown():
         except:
             raise Exception("File not found: " % filepath)
 
-    def toMarkdown(self, filepath, date):
+    def toMarkdown(self, filepath, date, name):
         with open(filepath, "w+", encoding="utf8") as file:
             file.write("# Meeting of %s\n\n" % date)
             for line in self.__fileData:
                 if len(line[0]) == 1: pass
-                else: file.write(emoji.emojize("_%s_\n\n**%s**\n\n%s\n\n---\n" % (line[0], line[1].replace("Me", "J08K (Job van der Wal)"), line[2])))
+                else: file.write(emoji.emojize("_%s_\n\n**%s**\n\n%s\n\n---\n" % (line[0], line[1].replace("Me", name), line[2])))
             file.write("# End of meeting")    
         return(True)
 
@@ -43,9 +46,11 @@ if __name__ == "__main__":
             args["input"] =  argv[index+1]
         elif argument.lower() == "--date":
             args["date"] = argv[index+1]
+        elif argument.lower() == "--name":
+            args["name"] = argv[index+1]
     if len(args) >= 3:
         process = toMarkdown(args["input"])
-        if process.toMarkdown(args["output"], args["date"]):
+        if process.toMarkdown(args["output"], args["date"], args["name"] if "name" in args else standardVariables.name):
             print("\nOutput file: %s\n" % args["output"])
     else:
         raise Exception("Not enough arguments given!")
