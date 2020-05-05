@@ -30,7 +30,7 @@ class toMarkdown():
             file.write("# Meeting of %s\n\n" % date)
             for line in self.__fileData:
                 if len(line[0]) == 1: pass
-                else: file.write(emoji.emojize("_%s_\n\n**%s**\n\n%s\n\n---\n" % (line[0], line[1], line[2])))
+                else: file.write(emoji.emojize("_%s_\n\n**%s**\n\n%s\n\n---\n" % (line[0], line[1].replace("Me", "J08K (Job van der Wal)"), line[2])))
             file.write("# End of meeting")    
         return(True)
 
