@@ -1,0 +1,656 @@
+
+
+19:04
+
+Sascha
+
+haha
+
+
+
+
+19:06
+
+DJ (SleeplessByte)
+
+(ChemEx / V-60 only takes a minute when it's a small cup)
+
+
+
+
+19:06
+
+efx (Eli Flanagan)
+
+(loudermouth I am)
+
+
+
+
+19:08
+
+efx (Eli Flanagan)
+
+https://github.com/exercism/v3/issues/1418
+
+
+
+
+19:08
+
+DJ (SleeplessByte)
+
+https://github.com/exercism/v3/issues/1418
+
+
+
+
+19:08
+
+DJ (SleeplessByte)
+
+Ah I guess it will be Eli
+
+
+
+
+19:08
+
+DJ (SleeplessByte)
+
+NOT IT
+
+
+
+
+19:08
+
+efx (Eli Flanagan)
+
+haha, I'll take the mantle :)
+
+
+
+
+19:08
+
+DJ (SleeplessByte)
+
+🦸‍♂️
+
+
+
+
+19:11
+
+Sascha
+
+No
+
+
+
+
+19:11
+
+DJ (SleeplessByte)
+
+❌
+
+
+
+
+19:11
+
+DJ (SleeplessByte)
+
+Do I need to ship you a mic?
+
+
+
+
+19:12
+
+Sascha
+
+Nah, I'm fine :P 
+
+
+
+
+19:12
+
+efx (Eli Flanagan)
+
+Job's script! https://github.com/J08K/Exercism-Meeting-Chats
+
+
+
+
+19:13
+
+efx (Eli Flanagan)
+
+Sacha's changelog proposal: https://github.com/exercism/v3/issues/1385
+
+
+
+
+19:14
+
+DJ (SleeplessByte)
+
+Sacha, wanna link the current proposal?
+
+
+
+
+19:14
+
+Sascha
+
+https://gist.github.com/SaschaMann/7195698acc1732a953d05bcd4b69cbe9#gistcomment-3294400
+
+
+
+
+19:14
+
+DJ (SleeplessByte)
+
+:)
+
+
+
+
+19:14
+
+efx (Eli Flanagan)
+
+thanks!
+
+
+
+
+19:14
+
+Sascha
+
+it will be auto-generated once I'm done :P 
+
+
+
+
+19:17
+
+Sascha
+
+If you want to see any kind of info in it that's not in the prototype gist, let me know :) 
+
+
+
+
+19:17
+
+efx (Eli Flanagan)
+
+looks great! excellent will do.
+
+
+
+
+19:19
+
+Erik (ErikSchierboom)
+
+https://github.com/exercism/v3/tree/master/reference/stories
+
+
+
+
+19:21
+
+efx (Eli Flanagan)
+
+Example PR with a new story: https://github.com/exercism/v3/pull/1392
+
+
+
+
+19:21
+
+DJ (SleeplessByte)
+
+(note: NON-prototype-based inheritance)
+
+
+
+
+19:23
+
+Sascha
+
+I blamed the editing software, not you D: 
+
+
+
+
+19:25
+
+efx (Eli Flanagan)
+
+website vlog: https://www.youtube.com/watch?v=aLVh8RgDpes
+
+
+
+
+19:25
+
+efx (Eli Flanagan)
+
+And Exercism's channel: https://www.youtube.com/channel/UCI539r_OxiqZpUUhmPXsrEA
+
+
+
+
+19:25
+
+DJ (SleeplessByte)
+
+(it's not true, you have scaffolded ;)
+
+
+
+
+19:33
+
+efx (Eli Flanagan)
+
+Rust's boilerplate script: https://github.com/exercism/v3/blob/master/languages/rust/exercises/concept/boil_exercise.sh
+
+
+
+
+19:34
+
+DJ (SleeplessByte)
+
+(in the draft PR I did ~60 min ago, see all the other files we also have to change)
+
+
+
+
+19:36
+
+Noah Betzen (Nezteb)
+
+Idea: All feedback beyond the "good enough" poing should be accompanied by a GH issue to fix it later.
+
+
+
+
+19:36
+
+Jeremy Walker (iHiD)
+
+100%
+
+
+
+
+19:36
+
+Erik (ErikSchierboom)
+
+Yep
+
+
+
+
+19:40
+
+efx (Eli Flanagan)
+
+https://github.com/exercism/v3/blob/master/reference/stories/booleans.rpg-quest-logic.md
+
+
+
+
+19:45
+
+Me
+
+"MMORPG (Many Mentors Online Real Programming Game)" - KOTP
+
+
+
+
+19:52
+
+KOTP
+
+Cost of criticism.  Makes you think about is it the fight worth fighting.
+
+
+
+
+19:52
+
+Me
+
+Indeed
+
+
+
+
+19:52
+
+Me
+
+Just controlling the "flow"
+
+
+
+
+19:54
+
+Sascha
+
+No thanks
+
+
+
+
+19:54
+
+zuzia-kru
+
+I wonder if since you need to spend credits to be mentored you can run out of credits. So did you think about where this line will be when you won't be able to continue learning from mentors without earning credits somehow? 
+
+
+
+
+19:54
+
+efx (Eli Flanagan)
+
+haha
+
+
+
+
+19:55
+
+Me
+
+@zuzia-kru You've got a point
+
+
+
+
+19:55
+
+DJ (SleeplessByte)
+
+Yeah it's what I mentioned last week
+
+
+
+
+19:55
+
+Erik (ErikSchierboom)
+
+@zuzia-kru The idea is that you'd always get some basic number of daily/weekly credits or something of the like
+
+
+
+
+19:56
+
+zuzia-kru
+
+ahh right, I think I remember now from last week, thanks!
+
+
+
+
+19:57
+
+Taiyab Raja
+
+If you run out of credits, you might have to take out a loan :D
+
+
+
+
+19:57
+
+efx (Eli Flanagan)
+
+i'm starting Exercism Banke right after the call
+
+
+
+
+19:57
+
+DJ (SleeplessByte)
+
+❌❌❌❌
+
+
+
+
+19:58
+
+Sascha
+
+🤑🤑🤑🤑
+
+
+
+
+19:58
+
+zuzia-kru
+
+It would be easy to forget to prohibit the account from going negative ;)
+
+
+
+
+19:58
+
+Mark Simpson (mjs)
+
+trickle down 
+
+
+
+
+19:58
+
+DJ (SleeplessByte)
+
+❌❌ 
+
+
+
+
+19:59
+
+Me
+
+Could we quickly recap a little on courses with less students (thus mentors will likely get less credits) and if they will get the same amount of credits as a mentor from a different, more popular track? We talked about it last week, but what will we do about mentors "farming" on a high-earning track?
+
+
+
+
+19:59
+
+DJ (SleeplessByte)
+
+(same btw, if it wasn't clear)
+
+
+
+
+19:59
+
+DJ (SleeplessByte)
+
+(as in, agree with brooks)
+
+
+
+
+20:00
+
+DJ (SleeplessByte)
+
+I defo need a million and one
+
+
+
+
+20:00
+
+DJ (SleeplessByte)
+
+⌛ 
+
+
+
+
+20:01
+
+Me
+
+Money is difficult XD
+
+
+
+
+20:01
+
+Sascha
+
+Working Mentors of All Tracks, Unite!
+
+
+
+
+20:01
+
+Erik (ErikSchierboom)
+
+https://www.goodreads.com/en/book/show/36203303 is a nice write-up on what money gives us :)
+
+
+
+
+20:02
+
+Me
+
+Good idea, I'll read it
+
+
+
+
+20:04
+
+Me
+
+1000000 reputation points is an intership at Google
+
+
+
+
+20:05
+
+Erik (ErikSchierboom)
+
+T-minus 5 minutes ;)
+
+
+
+
+20:05
+
+Erik (ErikSchierboom)
+
+T-plus actually :D
+
+
+
+
+20:06
+
+Sascha
+
+Just say "Alexa, turn off the power" loud enough to trigger Jeremy's Echo again
+
+
+
+
+20:06
+
+efx (Eli Flanagan)
+
+LOL
+
+
+
+
+20:07
+
+DJ (SleeplessByte)
+
+I don''t want to rain in your parade ⌛⌛⌛
+
+
+
+
+20:10
+
+Sascha
+
+👋
+
+
+
+
+20:10
+
+efx (Eli Flanagan)
+
+wave
+
+
+
+
+20:10
+
+zuzia-kru
+
+Thanks!
+
+
+
+
+20:10
+
+DJ (SleeplessByte)
+
+👋🏽👋🏽👋🏽
+
+
+
+
+20:10
+
+Taiyab Raja
+
+Bye!
+
