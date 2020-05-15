@@ -48,9 +48,12 @@ if __name__ == "__main__":
             args["date"] = argv[index+1]
         elif argument.lower() == "--name":
             args["name"] = argv[index+1]
-    if len(args) >= 3:
+    if "input" in args:
         process = toMarkdown(args["input"])
-        if process.toMarkdown(args["output"], args["date"], args["name"] if "name" in args else standardVariables.name):
+        args["date"] = args["date"] if "date" in args else args["input"][:-4]
+        args["name"] = args["name"] if "name" in args else standardVariables.name
+        args["output"] = args["output"] if "output" in args else args["input"][:-4] + ".md"
+        if process.toMarkdown(args["output"], args["date"], args["name"]):
             print("\nOutput file: %s\n" % args["output"])
     else:
-        raise Exception("Not enough arguments given!")
+        raise Exception("No input file given!")
