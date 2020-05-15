@@ -1,0 +1,1242 @@
+
+
+18:57
+
+Rishiosaur (Rishi Kothari)
+
+hi everyone!
+
+
+
+
+18:58
+
+Me
+
+Hey!
+
+
+
+
+18:58
+
+DJ (SleeplessByte)
+
+👋🏽👋🏽
+
+
+
+
+19:00
+
+BethanyG
+
+Bethany .. looks sideways at her homemade english muffin, and questions her life choices.
+
+
+
+
+19:00
+
+Tim (@neenjaw)
+
+Hey all
+
+
+
+
+19:00
+
+Rishiosaur (Rishi Kothari)
+
+Hii!
+
+
+
+
+19:00
+
+efx (Eli Flanagan)
+
+hahaha. English Muffins are great though.
+
+
+
+
+19:01
+
+Sascha
+
+that works well indeed
+
+
+
+
+19:01
+
+KOTP
+
+Are we going to finalize the English version we use... you know that other version of English that the American's dong speak.  Yep, that's right Australian English.
+
+
+
+
+19:01
+
+DJ (SleeplessByte)
+
+hahhahahaha
+
+
+
+
+19:01
+
+DJ (SleeplessByte)
+
+Victor
+
+
+
+
+19:01
+
+efx (Eli Flanagan)
+
+haha. YES
+
+
+
+
+19:01
+
+Rishiosaur (Rishi Kothari)
+
+haha
+
+
+
+
+19:01
+
+Sascha
+
+Also read the debunking page about the book :P
+
+
+
+
+19:02
+
+Sascha
+
+https://guzey.com/books/why-we-sleep/
+
+
+
+
+19:02
+
+Tim (@neenjaw)
+
+just uppers, no downers :P
+
+
+
+
+19:02
+
+efx (Eli Flanagan)
+
+bookmarked Sascha :)
+
+
+
+
+19:07
+
+DJ (SleeplessByte)
+
+Sorry for eating on the call -- we're getting our corona-hair cut right after the call 🙈🤗🤗🤗🤗🤗🤗
+
+
+
+
+19:08
+
+Me
+
+Eetsmakelijk!
+
+
+
+
+19:08
+
+DJ (SleeplessByte)
+
+⚠ new limitations. FILE names must be be [A-Za-z0-9
+
+
+
+
+19:08
+
+DJ (SleeplessByte)
+
+_-.]
+
+
+
+
+19:10
+
+Scott Paul Jones
+
+Darn, work meeting conflict
+
+
+
+
+19:10
+
+efx (Eli Flanagan)
+
+alas! :wave:
+
+
+
+
+19:10
+
+Scott Paul Jones
+
+I'll try to catch up with the recording later
+
+
+
+
+19:10
+
+Me
+
+Okay, good luck!
+
+
+
+
+19:10
+
+Tim (@neenjaw)
+
+:wave: catch you later
+
+
+
+
+19:10
+
+DJ (SleeplessByte)
+
+We'll probably want to see the test runner result in the "admin" panel where we write the representation.
+
+
+
+
+19:10
+
+Erik (@erikschierboom)
+
+Good luck with your work!
+
+
+
+
+19:13
+
+DJ (SleeplessByte)
+
+I also just want to avail my services to bounce your exercise idea on -- been working well with Erik :D
+
+
+
+
+19:13
+
+Erik (@erikschierboom)
+
+Yep! DJ was a great help
+
+
+
+
+19:14
+
+DJ (SleeplessByte)
+
+(Basically I will complain and then you make it even better)
+
+
+
+
+19:14
+
+Erik (@erikschierboom)
+
+https://github.com/exercism/research_experiment_1/blob/master/exercises/csharp-1-a/.meta/config.json
+
+
+
+
+19:15
+
+Erik (@erikschierboom)
+
+That's an example. Manually "crafted" :)
+
+
+
+
+19:15
+
+efx (Eli Flanagan)
+
+https://github.com/exercism/v3/issues/1418 is the proposal issue right?
+
+
+
+
+19:15
+
+Erik (@erikschierboom)
+
+https://github.com/exercism/v3/issues/1418#issuecomment-627251335
+
+
+
+
+19:16
+
+Tim (@neenjaw)
+
+Do students only see a single file in the editor? I see that the method overload exercise has multiple classes in one folder, is that normal for csharp or an adaptation?
+
+
+
+
+19:16
+
+Tim (@neenjaw)
+
+*one file
+
+
+
+
+19:16
+
+Erik (@erikschierboom)
+
+There are two classes: an implementation and a test file. So students will only work on one file
+
+
+
+
+19:17
+
+Erik (@erikschierboom)
+
+The third file is a project file
+
+
+
+
+19:17
+
+Tim (@neenjaw)
+
+ok, so just concat the classes/modules into one file for edit
+
+
+
+
+19:17
+
+Erik (@erikschierboom)
+
+I think there are languages that will require multiple files. C with implementation and header files come to mind
+
+
+
+
+19:19
+
+Tim (@neenjaw)
+
+elixir can get by with putting modules all into one file, it just isn't normal in the greater ecosystem
+
+
+
+
+19:20
+
+Erik (@erikschierboom)
+
+Yeah. C# has the same. You can have multiple classes in a file, but it is less common
+
+
+
+
+19:20
+
+DJ (SleeplessByte)
+
+Just ban Java, Kotlin only.
+
+
+
+
+19:21
+
+Corey (cmccandless)
+
+I have to drop off. Bye everyone!
+
+
+
+
+19:21
+
+Erik (@erikschierboom)
+
+Bye!
+
+
+
+
+19:21
+
+efx (Eli Flanagan)
+
+see ya!
+
+
+
+
+19:22
+
+BethanyG
+
+bye!
+
+
+
+
+19:22
+
+Tim (@neenjaw)
+
+I like how Java is evolving.  Java 5 in uni though.... X_x
+
+
+
+
+19:22
+
+Erik (@erikschierboom)
+
+Checked exceptions :(
+
+
+
+
+19:23
+
+Sascha
+
+try matlab if you dislike java. 1 function per file 😫
+
+
+
+
+19:23
+
+Erik (@erikschierboom)
+
+:O
+
+
+
+
+19:25
+
+efx (Eli Flanagan)
+
+trolled by Git. Again.
+
+
+
+
+19:29
+
+Erik (@erikschierboom)
+
+- csharp: 14
+- fsharp: 10
+- javascript: 7
+- elixir: 6
+- ruby: 4
+- go: 3
+- julia: 2
+- rust: 2
+- clojure: 1
+- common-lisp: 1
+- cpp: 1
+- purescript: 1
+- python: 1
+
+
+
+
+19:29
+
+DJ (SleeplessByte)
+
+If they don't show up on the track maintenance dashboard, the config doesn't have them
+
+
+
+
+19:29
+
+DJ (SleeplessByte)
+
+you can use that as sanity check
+
+
+
+
+19:30
+
+efx (Eli Flanagan)
+
+(one if flight  for Rust too; somewhat blocked by https://github.com/exercism/v3/pull/1435)
+
+
+
+
+19:30
+
+DJ (SleeplessByte)
+
+https://tracks.exercism.io/
+
+
+
+
+19:30
+
+efx (Eli Flanagan)
+
+*in flight
+
+
+
+
+19:35
+
+Erik (@erikschierboom)
+
+@eli We do have to decide what to do there. GH Actions are nice, but there are a lot of edge cases
+
+
+
+
+19:35
+
+efx (Eli Flanagan)
+
+Ah, yes, I agree. This is mostly because it is a fork right?
+
+
+
+
+19:36
+
+Erik (@erikschierboom)
+
+Actually, I think it is mostly because GH Actions cannot trigger other GH Actions when the default token is used. Sascha suggested using a custom SSH key, which would have the right permissions
+
+
+
+
+19:36
+
+Sascha
+
+@efx: Push an empty commit `commit -m "Trigger CI" --allow-empty` to trigger them in the meanwhile
+
+
+
+
+19:37
+
+Me
+
+Yawpitch and me have been "working" on a concept exercise together. I am going to start to work on the files this week, I couldn't work on it this week because of computer problems. After this, I'll try to pick up the pace and make more exercises.
+
+
+
+
+19:37
+
+efx (Eli Flanagan)
+
+Thanks! how could I do that on a fork though?
+
+
+
+
+19:37
+
+DJ (SleeplessByte)
+
+@Eli, you can't unless you have rights on that fork.
+
+
+
+
+19:38
+
+Sascha
+
+If the submitter has not unchecked the "allow maintainers to push changes" box, you can push to it 
+
+
+
+
+19:38
+
+DJ (SleeplessByte)
+
+It's a flag they can set when creating a PR
+
+
+
+
+19:38
+
+DJ (SleeplessByte)
+
+yeh
+
+
+
+
+19:38
+
+DJ (SleeplessByte)
+
+that
+
+
+
+
+19:38
+
+Me
+
+Most of the Python exercises are in the discussing phase...
+
+
+
+
+19:38
+
+efx (Eli Flanagan)
+
+got it. Thanks Sascha. I will try after the call.
+
+
+
+
+19:39
+
+Tim (@neenjaw)
+
+Ya, python's work on the pre-build stage is impressive.
+
+
+
+
+19:39
+
+Sascha
+
+closing/reclosing may also work, not sure though
+
+
+
+
+19:40
+
+Sascha
+
+I think having those "Hackdays" or w(e you called them could help to actually get people talköing and then collaborating
+
+
+
+
+19:40
+
+Sascha
+
+(the gotomeet chat is laggy af when typing. 3 words appear at once x_x)
+
+
+
+
+19:40
+
+Erik (@erikschierboom)
+
+:D
+
+
+
+
+19:41
+
+Me
+
+Most of python exercises are like this: https://github.com/exercism/v3/issues/877 This is the issue with Yawpitch and me.
+
+
+
+
+19:42
+
+Tim (@neenjaw)
+
+Sidebar: What is Lief's poster? firefly?
+
+
+
+
+19:42
+
+Erik (@erikschierboom)
+
+@Job That's great. It is basically discussing everything upfront instead of in a PR 
+
+
+
+
+19:42
+
+DJ (SleeplessByte)
+
+You mean "Best scifi ever"
+
+
+
+
+19:42
+
+Leif Swenson
+
+@neenjaw you guessed it xD
+
+
+
+
+19:43
+
+Erik (@erikschierboom)
+
+Agreed! https://media.giphy.com/media/UvwI1X7XkbXq0/200.gif
+
+
+
+
+19:43
+
+Tim (@neenjaw)
+
+Oh, I 10000% agree.  It's a modern-day tragedy that it didn't catch on.
+
+
+
+
+19:43
+
+BethanyG
+
+@job ..I think that's a great one...BUT ... we need about 10 more of those ... so that we get them on the way to fleshed-out.
+
+
+
+
+19:44
+
+Me
+
+I'll do my best to do more and more :))
+
+
+
+
+19:45
+
+BethanyG
+
+<3
+
+
+
+
+19:51
+
+DJ (SleeplessByte)
+
+I gotta run and 💇🏽‍♂️💇🏽‍♀️👱🏽‍♂️
+
+
+
+
+19:51
+
+efx (Eli Flanagan)
+
+laters!
+
+
+
+
+19:52
+
+Leif Swenson
+
+Nice to meet you!
+
+
+
+
+19:52
+
+DJ (SleeplessByte)
+
+👋🏽👋🏽👋🏽👋🏽
+
+
+
+
+19:52
+
+Erik (@erikschierboom)
+
+Bye!
+
+
+
+
+19:52
+
+BethanyG
+
+Bye!
+
+
+
+
+19:52
+
+Me
+
+Bye!
+
+
+
+
+19:52
+
+Tim (@neenjaw)
+
+Bye!
+
+
+
+
+19:52
+
+Sascha
+
+nitpicks should all contain a ```suggestion so that you can just go through and click them all ´
+
+
+
+
+19:52
+
+Sascha
+
+bye
+
+
+
+
+19:52
+
+Erik (@erikschierboom)
+
+@Sacha +1
+
+
+
+
+19:52
+
+Yoni (ynfle)
+
+@Sacha +1
+
+
+
+
+19:52
+
+Tim (@neenjaw)
+
+Who will paste links?!
+
+
+
+
+19:53
+
+Erik (@erikschierboom)
+
+https://github.com/exercism/v3/pull/1447/files
+
+
+
+
+19:57
+
+Erik (@erikschierboom)
+
+https://github.com/exercism/v3/issues?q=is%3Aopen+is%3Aissue+label%3Atrack%2Fcsharp
+
+
+
+
+19:57
+
+Erik (@erikschierboom)
+
+https://github.com/exercism/v3/issues/966
+
+
+
+
+19:57
+
+Erik (@erikschierboom)
+
+Know what exceptions are.
+Know when an exception should be thrown.
+Know how to throw (and rethrow) an exception.
+Know how to catch an exception.
+Know the most important built-in exceptions (ArgumentException, InvalidOperationException).
+
+
+
+
+19:57
+
+Erik (@erikschierboom)
+
+Exception filters.
+User-defined exceptions.
+try/finally blocks
+Memory and performance characteristics.
+
+
+
+
+19:58
+
+Leif Swenson
+
+It's looking like a fortnite farm, not a minecraft farm @neenjaw
+
+
+
+
+19:58
+
+Me
+
+[Off-topic] How much of a priority is it to have a visual (chat) overlay for the meeting videos for youtube? Because I am first gonna focus on getting some exercises done and after that I'll try to get some more progress on the chats overlay.
+
+
+
+
+19:58
+
+Tim (@neenjaw)
+
+It's the new minecraft launcher
+
+
+
+
+19:58
+
+Tim (@neenjaw)
+
+:)
+
+
+
+
+19:58
+
+Me
+
+Oh yes haha
+
+
+
+
+19:59
+
+Me
+
+The hard part about the visual overlay for the chats is because there is no timecode in the video, so syncing the chat with the video would be hard
+
+
+
+
+19:59
+
+Sascha
+
+probably not even necessary if you can convince Jeremy to add them while editing :P 
+
+
+
+
+20:00
+
+Sascha
+
+as long as you have the overlay clips/frames
+
+
+
+
+20:00
+
+Me
+
+Haha yes, but Jeremy should have some free time too
+
+
+
+
+20:00
+
+Erik (@erikschierboom)
+
+I'd take Concept Exercises over a Chat Overlay anytime :)
+
+
+
+
+20:00
+
+Sascha
+
+^
+
+
+
+
+20:00
+
+Sascha
+
+or have a syncing point in the video itself
+
+
+
+
+20:01
+
+Sascha
+
+like someonie shows a clock in the pre-recording thing (that was 10 words at once, great chatting experience lol)
+
+
+
+
+20:01
+
+Me
+
+Yeah... but there is no actual time code in the chat itself either
+
+
+
+
+20:01
+
+Sascha
+
+:|
+
+
+
+
+20:01
+
+Sascha
+
+maybe its not possible then 
+
+
+
+
+20:01
+
+Me
+
+No no no never say that
+
+
+
+
+20:01
+
+Sascha
+
+without toio much effort
+
+
+
+
+20:02
+
+Me
+
+I can probably create a program to look at the chat in realtime, copy it, and inject timecode
+
+
+
+
+20:02
+
+Tim (@neenjaw)
+
+And mentoring is very discrete, it's easy to bite off a small chunk and succeed
+
+
+
+
+20:02
+
+Me
+
+but... I'll first get some exercises done and then focus on the meetings
+
+
+
+
+20:02
+
+Erik (@erikschierboom)
+
+Sweet!
+
+
+
+
+20:04
+
+Sascha
+
+🤔
+
+
+
+
+20:04
+
+Sascha
+
+Same, Erik.
+
+
+
+
+20:05
+
+efx (Eli Flanagan)
+
++1 on the intro taking longer.
+
+
+
+
+20:05
+
+Me
+
+yupp
+
+
+
+
+20:05
+
+Tim (@neenjaw)
+
+I think bullet points just don't help me to understand the scope/weight of concepts
+
+
+
+
+20:05
+
+Erik (@erikschierboom)
+
+Interesting! Two schools of thought :)
+
+
+
+
+20:06
+
+efx (Eli Flanagan)
+
+⌛⌛⌛
+
+
+
+
+20:06
+
+Me
+
+Atleast it helps us think :/
+
+
+
+
+20:09
+
+Tim (@neenjaw)
+
+:super_thumbs_up:
+
