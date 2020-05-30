@@ -1,0 +1,705 @@
+S
+19:02
+ 
+to Everyone
+ditch the video and use gaming voip, it's been working great for decades :P
+
+S
+19:02
+ 
+to Everyone
+Btw, is there a way to stop the grid from jumping around whenever someone joins/parts? it's a bit confusing everytime it happens
+
+SC
+19:02
+ 
+to Everyone
+I teach remotely via webcam for my day job. Students not turning on their webcams is definitely unnerving.
+
+AT
+19:04
+ 
+to Everyone
+Is it considered more polite to turn on the camera even if I intend to just lurk? I'm not sure how this software handles so many video feeds.
+
+D
+19:04
+ 
+to Everyone
+IMA be sorta inactive but definitely just ping if someone needs anything from me
+
+D
+19:05
+ 
+to Everyone
+I can't be captain links today because I'm on my phone!
+
+D
+19:05
+ 
+to Everyone
+Whomstve wants to be captain links?
+
+D
+19:06
+ 
+to Everyone
+Eli isn't here I think. Tim?
+
+T
+19:06
+ 
+to Everyone
+Promoted!
+
+D
+19:06
+ 
+to Everyone
+(sorry not sorry)
+
+D
+19:06
+ 
+to Everyone
+Hahahaha
+
+S
+19:06
+ 
+to Everyone
+Congrats, Tim!
+
+D
+19:06
+ 
+to Everyone
+❤️❤️
+
+R
+19:06
+ 
+to Everyone
+New here! ✌🏾
+
+CG
+19:07
+ 
+to Everyone
+i'm a fly on the wall - still pretty newb. ignore me!
+
+D
+19:08
+ 
+to Everyone
+Newbies make the best people to ask questions because we're all stuck in our own little world!
+
+T
+19:10
+ 
+to Everyone
+https://github.com/exercism/v3/discussions/1482 <-- discussion, making contributions easier
+
+T
+19:10
+ 
+to Everyone
+optimistic merging: https://github.com/hintjens/socialarchitecture/blob/5df33c4d533e280a9c52707dc1b23c4e7e954f34/ch04.txt#L204-L244
+
+S
+19:11
+ 
+to Everyone
+https://gist.github.com/SaschaMann/198275e87b0724050be58844ce4977da
+
+19:13
+ES
+ 
+to Everyone
+https://v3.exercism.io/
+
+T
+19:13
+ 
+to Everyone
+thanks erik!
+
+ES
+19:13
+ES
+ 
+to Everyone
+Thanks DJ for basically 95% of the code ;)
+
+ES
+19:14
+ES
+ 
+to Everyone
+https://tracks.exercism.io/
+
+T
+19:14
+ 
+to Everyone
+tracks.exercism.io
+
+D
+19:14
+ 
+to Everyone
+We'll link from tracks to v3 of course
+
+D
+19:16
+ 
+to Everyone
+Also: graph is coming. Im just slammed right now with making sure we don't go bankrupt this year 🤭😅🔥🔥🔥
+
+S
+19:18
+ 
+to Everyone
+Does it use GH's noreply email or the exercism account email for the commit?
+
+ES
+19:18
+ES
+ 
+to Everyone
+The Exercism account user/email
+
+MS
+19:18
+ 
+to Everyone
+that's why you sign your commits!
+
+S
+19:19
+ 
+to Everyone
+@Erik: Should add a warning about that on the site, since it exposes your email publicly forever in the git history
+
+ES
+19:19
+ES
+ 
+to Everyone
+Right. Good addition. https://github.com/exercism/v3-dashboard/issues for issues ;)
+
+S
+19:20
+ 
+to Everyone
+Will the opposite also hold true, i.e. can one ignore the v3 site and just use GH directly?
+
+ES
+19:20
+ES
+ 
+to Everyone
+Absolutely
+
+ES
+19:21
+ES
+ 
+to Everyone
+This is just a convenience, particularly designed for new contributors
+
+S
+19:21
+ 
+to Everyone
+👍
+
+T
+19:22
+ 
+to Everyone
+Looks like a good way to onboard people for the structure
+
+GN
+19:23
+ 
+to Everyone
+Basically I'd like to see this on there:
+https://github.com/exercism/v3/issues/212
+
+All my exercises with their status.
+
+T
+19:24
+ 
+to Everyone
+For maintainers: Links to exercises that already exist for that track; and DJ's conncept grapher when he is able to complete it
+
+D
+19:25
+ 
+to Everyone
+🤗
+
+19:28
+ES
+ 
+to Everyone
+I took inspiration from tehshpinx and updated the C# list of concepts with links to exercises: https://github.com/exercism/v3/blob/master/languages/csharp/reference/README.md#concepts Could also be useful
+
+S
+19:29
+ 
+to Everyone
+No idea
+
+GN
+19:30
+ 
+to Everyone
+That'd be perfect... list all the files!
+
+19:33
+ES
+ 
+to Everyone
+https://github.com/exercism/v3-dashboard
+
+D
+19:34
+ 
+to Everyone
+Don't worry. I'll shitreview those prs
+
+B
+19:36
+ 
+to Everyone
+I totally cribbed Erik and DJ.
+
+S
+19:37
+ 
+to Everyone
+the python slack channel has two really nice overview messages with links to everything that Bethany and David made
+
+S
+19:37
+ 
+to Everyone
+https://exercism-team.slack.com/archives/CC5DGSAG6/p1590395601127300
+
+D
+19:37
+ 
+to Everyone
+What is cribbing
+
+D
+19:37
+ 
+to Everyone
+🥺😁
+
+B
+19:38
+ 
+to Everyone
+@DJ cribbing is stealing or borrowing.
+
+D
+19:38
+ 
+to Everyone
+Hehehe
+
+D
+19:38
+ 
+to Everyone
+Go ahead!
+
+19:38
+ES
+ 
+to Everyone
+Sure!
+
+D
+19:41
+ 
+to Everyone
+Wanna quickly say something about problem-spec?
+
+S
+19:42
+ 
+to Everyone
+😬
+
+19:42
+ES
+ 
+to Everyone
+:fire:
+
+D
+19:45
+ 
+to Everyone
+It holds a lot of ... "Fun" discussions
+
+T
+19:45
+ 
+to Everyone
+:skull_and_crossbones:
+
+TR
+19:45
+ 
+to Everyone
+Hey gang
+
+S
+19:46
+ 
+to Everyone
+"4 reasons why problem-specs sucks and how we're fixing it" incoming? :P
+
+ES
+19:47
+ES
+ 
+to Everyone
+Only 4 reasons? ;)
+
+B
+19:47
+ 
+to Everyone
+Bwhahaha.
+
+T
+19:47
+ 
+to Everyone
+:fire:
+
+S
+19:47
+ 
+to Everyone
+gotta keep it short enough for youtube, just make a few sequels :P
+
+ES
+19:47
+ES
+ 
+to Everyone
+:D
+
+T
+19:48
+ 
+to Everyone
+Needs to be more clickbaity "4 MORE REASONS WHY I'M QUITTING PROBLEM SPECS"
+
+TR
+19:48
+ 
+to Everyone
+"I QUIT MY PROBLEMS.....................
+
+TR
+19:48
+ 
+to Everyone
+(SPECS)
+
+TR
+19:48
+ 
+to Everyone
+"
+
+S
+19:48
+ 
+to Everyone
+"PR #12 will SHOCK you"
+
+D
+19:51
+ 
+to Everyone
+Bobobobobob
+
+ES
+19:52
+ES
+ 
+to Everyone
+We do, but we had discussions whether things were optional :)
+
+D
+19:52
+ 
+to Everyone
+Yes we have optional for yes or no, but not for changing
+
+S
+19:52
+ 
+to Everyone
+(╯°□°）╯︵ ┻━┻
+
+TR
+19:52
+ 
+to Everyone
+Flipping the table.
+
+T
+19:52
+ 
+to Everyone
+He's fliping the table
+
+T
+19:52
+ 
+to Everyone
+#ragequit
+
+S
+19:53
+ 
+to Everyone
+@DJ: no, it allows keys too, it's not a boolean
+
+D
+19:53
+ 
+to Everyone
+No. It allows you to say it's optional based on this property
+
+D
+19:53
+ 
+to Everyone
+Or whatevs :p
+
+D
+19:53
+ 
+to Everyone
+It doesn't allow you to inverse the test or something like that haha
+
+S
+19:53
+ 
+to Everyone
+ah okay
+
+TR
+19:54
+ 
+to Everyone
+Let's all hate Jeremy together!
+
+S
+19:54
+ 
+to Everyone
+what about the idea of "exercise owners" that you mentioned you and Erik discussed before?
+
+D
+19:56
+ 
+to Everyone
+Ah yes
+
+S
+19:57
+ 
+to Everyone
+It's never obviously in or out of scope
+
+D
+19:57
+ 
+to Everyone
+Obviously
+
+R
+19:58
+ 
+to Everyone
+Would it be easier to have a permanently open issue for each exercise in each track and the "owner" is assigned to it? Any user issues raised about it can be mentioned/linked to in the thread so they can action it. And reassignment in case of drop out (or incompetence) can be done easily.
+
+D
+20:00
+ 
+to Everyone
+⏳⌛
+
+R
+20:00
+ 
+to Everyone
+Ta. Last qtn, are there specific languages that need to be "ready" before V3 is launched?
+
+R
+20:00
+ 
+to Everyone
+Ta. Last qtn, are there specific languages that need to be "ready" before V3 is launched?
+
+D
+20:04
+ 
+to Everyone
+Jeremy the dictator
+
+ES
+20:04
+ES
+ 
+to Everyone
+Erik the (benevolent) dictator?
+
+ES
+20:04
+ES
+ 
+to Everyone
+;)
+
+S
+20:05
+ 
+to Everyone
+Gotta add him to https://en.wikipedia.org/wiki/Benevolent_dictator_for_life
+
+D
+20:05
+ 
+to Everyone
+Haha
+
+D
+20:05
+ 
+to Everyone
+Yes
+
+ES
+20:05
+ES
+ 
+to Everyone
+Yes! :sunglasses:
+
+D
+20:08
+ 
+to Everyone
+I think the biggest issue for me is that the problem spec keeps dictating the exercise instead of be a building block.
+
+S
+20:08
+ 
+to Everyone
+☝
+
+MS
+20:09
+ 
+to Everyone
+I look to problem spec as the *basis* for my track - i need to still translate to the proper idiom for my language
+
+D
+20:10
+ 
+to Everyone
+Yep..that's great!
+
+D
+20:10
+ 
+to Everyone
+That's not how those discussions go. But that's how it should be!
+
+D
+20:10
+ 
+to Everyone
+⌛⏳⌛⏳⌛⏳⌛⏳⌛⏳⌛⏳
+
+T
+20:11
+ 
+to Everyone
+(╯°□°)╯︵ ⏳
+
+D
+20:11
+ 
+to Everyone
+Someone should do the chat thing! Our Dutch chat saver isn't here I think?
+
+R
+20:11
+ 
+to Everyone
+Thanks Jeremy, catch everyone next time!
+
+D
+20:11
+ 
+to Everyone
+Babaha
+
+ES
+20:11
+ES
+ 
+to Everyone
+I copied it already
+
+D
+20:11
+ 
+to Everyone
+Okay good
+
+D
+20:11
+ 
+to Everyone
+😁
+
+S
+20:12
+ 
+to Everyone
+(☞ﾟヮﾟ)☞ Tim
+
+TR
+20:13
+ 
+to Everyone
+👎
+
+S
+20:13
+ 
+to Everyone
+ಠ_ಠ
+
+20:14
+ES
+ 
+to Everyone
+https://v3.exercism.io/
