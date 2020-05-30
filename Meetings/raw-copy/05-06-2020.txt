@@ -1,0 +1,1139 @@
+
+
+18:59
+
+Me
+
+Wow @KOTP is that you playing?
+
+
+
+
+19:00
+
+Erik (@erikschierboom)
+
+Haircut looks good DJ!
+
+
+
+
+19:00
+
+DJ (SleeplessByte)
+
+thanks haha
+
+
+
+
+19:00
+
+DJ (SleeplessByte)
+
+Not wearing a cap, I know
+
+
+
+
+19:01
+
+KOTP
+
+That was not me playing, unless you count a recorder a musical instrument.
+
+
+
+
+19:01
+
+Gabriel Nelle (tehsphinx)
+
+Hey everyone!
+
+
+
+
+19:01
+
+DJ (SleeplessByte)
+
+It's like me cooking today: "I pressed order now"
+
+
+
+
+19:01
+
+KOTP
+
+Wait, that is a musical instrument.  Stupid words that are the same but mean different things.
+
+
+
+
+19:01
+
+Erik (@erikschierboom)
+
+:D
+
+
+
+
+19:02
+
+KOTP
+
+Where did JW go?  We could still be enjoying the overture as we wait for the real show!
+
+
+
+
+19:02
+
+DJ (SleeplessByte)
+
+Normally i'd speak about something stupid but still working so someone else say something :P
+
+
+
+
+19:02
+
+DJ (SleeplessByte)
+
+he's getting coffee
+
+
+
+
+19:02
+
+DJ (SleeplessByte)
+
+☕
+
+
+
+
+19:04
+
+Me
+
+Still working on fixing the chat transcription, but the my old method still works
+
+
+
+
+19:04
+
+Me
+
+me and Bethany found a new method last week
+
+
+
+
+19:04
+
+Erik (@erikschierboom)
+
+Sorry about last week's format Job!
+
+
+
+
+19:05
+
+Me
+
+No dont worry, apperantly the chat is formatted differently between the desktop client and the Web client
+
+
+
+
+19:05
+
+Erik (@erikschierboom)
+
+Okay. I quite like the web client :)
+
+
+
+
+19:06
+
+DJ (SleeplessByte)
+
+v3.exercism.io
+
+
+
+
+19:06
+
+Me
+
+Me and Bethany have found 3 different methods to copy the chat right now. I am going to try and implement them all
+
+
+
+
+19:06
+
+DJ (SleeplessByte)
+
+https://v3.exercism.io/elixir/maintaining/launch: 14
+
+
+
+
+19:06
+
+DJ (SleeplessByte)
+
+https://v3.exercism.io/csharp/maintaining/launch: 16
+
+
+
+
+19:07
+
+Me
+
+Have been working these past weeks on a huge school essay, which is due in 5 hours :| So if I seem distracted thats what Im doing
+
+
+
+
+19:07
+
+Me
+
+School is almost done though :)
+
+
+
+
+19:09
+
+DJ (SleeplessByte)
+
+Dev Tools > Application > Clear data
+
+
+
+
+19:10
+
+DJ (SleeplessByte)
+
+IT'S SO NICE
+
+
+
+
+19:10
+
+Mark Simpson (mjs)
+
+super cool
+
+
+
+
+19:12
+
+DJ (SleeplessByte)
+
+monday
+
+
+
+
+19:13
+
+Erik (@erikschierboom)
+
+https://developer.github.com/v4/explorer/ if you want to play with GitHub's GraphQL API
+
+
+
+
+19:14
+
+Erik (@erikschierboom)
+
+https://github.com/exercism/v3-dashboard
+
+
+
+
+19:17
+
+DJ (SleeplessByte)
+
+"3"
+
+
+
+
+19:17
+
+Erik (@erikschierboom)
+
+3=300
+
+
+
+
+19:17
+
+DJ (SleeplessByte)
+
+i think when I checked last, I had ~498 unique solutions in the first 500, AFTER removing whitespace
+
+
+
+
+19:17
+
+DJ (SleeplessByte)
+
+(for bob)
+
+
+
+
+19:23
+
+DJ (SleeplessByte)
+
+(quick question: what's the goal/point of grouping? what are we talking about/solving??)
+
+
+
+
+19:23
+
+KOTP
+
+Being able to show different approaches for the student.
+
+
+
+
+19:23
+
+KOTP
+
+(No need to show identical solutions).
+
+
+
+
+19:23
+
+DJ (SleeplessByte)
+
+Automated?
+
+
+
+
+19:23
+
+DJ (SleeplessByte)
+
+Ahhh
+
+
+
+
+19:23
+
+DJ (SleeplessByte)
+
+Got it. Okay thanks <3
+
+
+
+
+19:24
+
+KOTP
+
+Currently browsing other solutions is hit or miss for interesting solutions, and kind of a waste of time for every one you click on that is identical to your own solution.
+
+
+
+
+19:25
+
+Gabriel Nelle (tehsphinx)
+
+So... we'd also need to auto-categorize every new solution?
+
+
+
+
+19:27
+
+Tim (neenjaw) (chat only)
+
++1 KOTP, very hard to find solutions
+
+
+
+
+19:28
+
+DJ (SleeplessByte)
+
+I think what's most important is that this does NOT need to be perfect at all
+
+
+
+
+19:28
+
+Tim (neenjaw) (chat only)
+
+AST > tag features / patterns to general tags > group solutions by tags
+
+
+
+
+19:28
+
+DJ (SleeplessByte)
+
+We just can start with one tag, and not tag it if you can't find that.
+
+
+
+
+19:28
+
+DJ (SleeplessByte)
+
+Yes, exactly
+
+
+
+
+19:28
+
+DJ (SleeplessByte)
+
+tagger
+
+
+
+
+19:28
+
+Tim (neenjaw) (chat only)
+
+automated-tagging
+
+
+
+
+19:30
+
+DJ (SleeplessByte)
+
+my recommendation would be:
+
+extract utility functions, but not rules, because rules need context
+
+
+
+
+19:31
+
+DJ (SleeplessByte)
+
+(and the better the context, the better the comment, but that means you'll find it will be hard to do fine-grained context with a broad-based rule)
+
+
+
+
+19:31
+
+Erik (@erikschierboom)
+
+This! ☝️
+
+
+
+
+19:34
+
+Me
+
+Im going to eat off camera real quick... I'll still be listening
+
+
+
+
+19:34
+
+DJ (SleeplessByte)
+
+You can eat on camera like I usually do and make everyone either hungry or angry :P 
+
+
+
+
+19:34
+
+DJ (SleeplessByte)
+
+(enjoy the food!)
+
+
+
+
+19:34
+
+Taiyab Raja
+
+Mukbang!
+
+
+
+
+19:35
+
+Me
+
+Hahah I could do that, but I'll keep my pizza to myself :)
+
+
+
+
+19:35
+
+Me
+
+Haha thanks though
+
+
+
+
+19:35
+
+DJ (SleeplessByte)
+
+So two tiers :)
+
+
+
+
+19:35
+
+DJ (SleeplessByte)
+
+I like that too
+
+
+
+
+19:35
+
+Erik (@erikschierboom)
+
+Ooh, I had pizza too 🍕
+
+
+
+
+19:36
+
+Me
+
+Lovely!
+
+
+
+
+19:36
+
+Tim (neenjaw) (chat only)
+
+I am not a really experienced in ML, but could this at somepoint be a semi-supervised training model? Mentors tag some solutions, then the model co...
+
+
+
+
+19:36
+
+Gabriel Nelle (tehsphinx)
+
+Yeah, I think that could work, yes.
+
+
+
+
+19:37
+
+DJ (SleeplessByte)
+
+Yes I agree
+
+
+
+
+19:37
+
+Gabriel Nelle (tehsphinx)
+
+Especially since it doesn't hurt to be wrong
+
+
+
+
+19:37
+
+DJ (SleeplessByte)
+
+We actually looked at this in our company when building the first analyzer
+
+
+
+
+19:37
+
+DJ (SleeplessByte)
+
+One person came up with having ML define a context-language/grammar for the solution and go from there. POC worked pretty well
+
+
+
+
+19:39
+
+Tim (neenjaw) (chat only)
+
+then can have on auto-tagged solutions "this tag was auto-generated, if it's wrong, tell us!" harness people to provide feedback to the model
+
+
+
+
+19:39
+
+DJ (SleeplessByte)
+
+Yes!
+
+
+
+
+19:40
+
+Tim (neenjaw) (chat only)
+
+gives us the ability to have incorrect tags, but hopefully better tags over time
+
+
+
+
+19:40
+
+Erik (@erikschierboom)
+
+Indeed
+
+
+
+
+19:40
+
+Tim (neenjaw) (chat only)
+
+But if the tags are just for approaches, and not for feedback, does it need to be near-100%?
+
+
+
+
+19:44
+
+Taiyab Raja
+
+@DJ Can you link it?
+
+
+
+
+19:44
+
+KOTP
+
+Agree or not, we are thinkingers, it is what we get paid for.
+
+
+
+
+19:45
+
+KOTP
+
+s/thinkingers/thinkers/
+
+
+
+
+19:45
+
+DJ (SleeplessByte)
+
+https://dev.to/xpbytes/writing-a-code-analyzer-in-typescript-5ec3
+
+
+
+
+19:45
+
+Tim (neenjaw) (chat only)
+
+Yes, giving people a vocabulary to increase their google-fu
+
+
+
+
+19:45
+
+Angelika Tyborska
+
+I was always tempted to write a blog post about some Exercism exercise, but I always thought it's a bad idea because it would give people spoilers for exercises they are not suppoesd to be looking at before attempting to solve them themselves.
+
+
+
+
+19:46
+
+Taiyab Raja
+
+Thanks
+
+
+
+
+19:46
+
+DJ (SleeplessByte)
+
+@angelika I totally get that, but I think you'll be fine by putting a disclaimer at the top to go do the exercise first :)
+
+
+
+
+19:46
+
+DJ (SleeplessByte)
+
+It's up to people to decide if they want to actively learn or be passive about it.
+
+
+
+
+19:46
+
+KOTP
+
+Warnin people at the top of the blog post, they have access to the source code and solutions anyway, if they are looking for them.
+
+
+
+
+19:46
+
+KOTP
+
+They can be responsible and restrict themselves from reading a solution.
+
+
+
+
+19:48
+
+KOTP
+
+Having the solution and reading about the background thought process for that solution is a great thing.
+
+
+
+
+19:48
+
+Erik (@erikschierboom)
+
+> they have access to the source code and solutions anyway, if they are looking for them.
+
+I've seen solutions where I'm fairly sure people have found the example solutions somewhere. I don't mind that personally. If people just want to solve something and learning things is less of a goal, they are happy to. People that do want to learn things will try to do things themselves first I feel. That's at least how I personally do things
+
+
+
+
+19:49
+
+DJ (SleeplessByte)
+
+Same. You want to cheat? Sure. You don't learn from that.
+
+
+
+
+19:49
+
+Erik (@erikschierboom)
+
+Yep. Your choice, not _my_ problem :)
+
+
+
+
+19:49
+
+KOTP
+
+And learning is not cheating.  There is no "cheat" on Exercism.  There is learn or don't learn.
+
+
+
+
+19:49
+
+DJ (SleeplessByte)
+
+Exactly! x2
+
+
+
+
+19:49
+
+Tim (neenjaw) (chat only)
+
+^ +1
+
+
+
+
+19:51
+
+KOTP
+
+(Otherwise we might think that mentor notes is "cheating" in the other direction.)
+
+
+
+
+19:55
+
+Erik (@erikschierboom)
+
+Reminder: 5 minutes left ⌛ :)
+
+
+
+
+19:58
+
+DJ (SleeplessByte)
+
+I don;t think it's 3 approaches, I think it's "tierd"
+
+
+
+
+20:04
+
+DJ (SleeplessByte)
+
+What I like about classifiers is that you can build them post launch
+
+
+
+
+20:04
+
+DJ (SleeplessByte)
+
+analyzers are EASIER to build when you have a lot of solved solutions
+
+
+
+
+20:05
+
+DJ (SleeplessByte)
+
+so tiers
+
+
+
+
+20:06
+
+DJ (SleeplessByte)
+
+(so for those whomstve don't know: it's already detached via website-copy, but I MUST write the first iteration)
+
+
+
+
+20:06
+
+DJ (SleeplessByte)
+
+(and it's coupled)
+
+
+
+
+20:06
+
+Yasin
+
+is there any thoughts about i18n? (exercism in other languages)
+
+
+
+
+20:07
+
+Tim (neenjaw) (chat only)
+
+I think there is perhaps more personal merit to article-format.  As DJ saw with being able to repost his analyzer article to different platforms
+
+
+
+
+20:07
+
+DJ (SleeplessByte)
+
+yep
+
+
+
+
+20:08
+
+DJ (SleeplessByte)
+
+5, but I won't be translating ha
+
+
+
+
+20:09
+
+DJ (SleeplessByte)
+
+google translate commentary (and skip code tags) would be cool too ahha
+
+
+
+
+20:09
+
+KOTP
+
+You could translate whomstve for me though.
+
+
+
+
+20:09
+
+Angelika Tyborska
+
+Google translate to Polish on technical texts would produce gibberish
+
+
+
+
+20:10
+
+DJ (SleeplessByte)
+
+whomstve = who + whom + whose.
+
+I usually correct people whomstve say "who" when they meant whom, but it used to annoy them, so I would now say whomstve so people think about it themselves :P
+
+
+
+
+20:10
+
+Gabriel Nelle (tehsphinx)
+
+In our company KB we just fall back to English if a translation does not exist (on per article basis)
+
+
+
+
+20:10
+
+DJ (SleeplessByte)
+
+yeh, that's cool too
+
+
+
+
+20:10
+
+Taiyab Raja
+
+Google Translate automatically tries to do that when browsing non-native language websites in Chrome.
+
+
+
+
+20:10
+
+DJ (SleeplessByte)
+
+I think we do the same!
+
+
+
+
+20:10
+
+Taiyab Raja
+
+So why do it on the website?
+
+
+
+
+20:10
+
+DJ (SleeplessByte)
+
+That's true too
+
+
+
+
+20:12
+
+Me
+
+Two weeks or so and I'll have vacation which means stress from school is gone and I can focus on Exercism
+
+
+
+
+20:12
+
+Erik (@erikschierboom)
+
+⌛⌛
+
+
+
+
+20:12
+
+Taiyab Raja
+
+Nice Job
+
+
+
+
+20:13
+
+Me
+
+Haha thank you!
+
+
+
+
+20:13
+
+Giorgio
+
+translated.net provide machine learning translation
+
+
+
+
+20:13
+
+Angelika Tyborska
+
+I am really worried that having Exercism in natural language X will make students expect to also receive mentoring in natural language X
+
+
+
+
+20:13
+
+Erik (@erikschierboom)
+
+Excellent point
+
+
+
+
+20:13
+
+Taiyab Raja
+
+That's a good point Angelika
+
+
+
+
+20:13
+
+Giorgio
+
+Good point
+
+
+
+
+20:14
+
+DJ (SleeplessByte)
+
+⌛⌛⌛⌛⌛⌛⌛⌛ (thank you Erik :D )
+
+
+
+
+20:14
+
+Yasin
+
+I believe It is not needed to have a translator and wait them to finish all. I think this should be like a progress and it is needed to be a "probable" site. You can put this as a "plugin" and whenever someone translate (or osme group verify etc) the least piece (like one exercise), then it can be open/published
+
+
+
+
+20:16
+
+Gabriel Nelle (tehsphinx)
+
+I have seem "chats" where everything gets automatically translated to your language and you can always look at the original per chat message. Maybe we are at the point where autom. translation is good enough for mentoring.
+
+
+
+
+20:17
+
+Me
+
+Im going to be working on a method so that everyone can get the chat and format it. Suggestions of features are welcome.
+
