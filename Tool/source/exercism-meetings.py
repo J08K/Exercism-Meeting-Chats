@@ -4,6 +4,7 @@ from sys import argv
 
 class standardVariables():
     name = "J08K (Job van der Wal)"
+    defaultType = "web-txt"
 
 class toMarkdown():
     def __init__(self, filepath):
@@ -40,19 +41,38 @@ class toMarkdown():
 if __name__ == "__main__":
     args = dict()
     for argument, index in zip(argv, range(len(argv))):
-        if argument.lower() == "--output":
+        
+        ## ? The name of the output file.
+        ## ? Defaults to: The name of the input file, but with ".md".
+        if argument.lower() == "--output": 
             args["output"] = argv[index+1]
+
+        ## * The name of the input file. REQUIRED
         elif argument.lower() == "--input":
             args["input"] =  argv[index+1]
+        
+        ## ? The date of the meeting.
+        ## ? Defaults to: The current date on the pc.
         elif argument.lower() == "--date":
             args["date"] = argv[index+1]
+        
+        ## ? The name of the "Me" user in the chat (Which is the person who copied it).
+        ## ? Defaults to: standardVariables.name . 
         elif argument.lower() == "--name":
             args["name"] = argv[index+1]
+
+        ## ? This is the type of way you are importing the chat. (client-txt, web-txt, client-rtf)
+        ## ? Defaults to: standardVariables.defaultType . 
+        elif argument.lower() == "--type":
+            args["type"] = argv[index+1]
+
     if "input" in args:
         process = toMarkdown(args["input"])
-        args["date"] = args["date"] if "date" in args else args["input"][:-4]
         args["name"] = args["name"] if "name" in args else standardVariables.name
         args["output"] = args["output"] if "output" in args else args["input"][:-4] + ".md"
+        if "date" not in args:
+            from datetime import date
+            args["date"] = date.today()
         if process.toMarkdown(args["output"], args["date"], args["name"]):
             print("\nOutput file: %s\n" % args["output"])
     else:
