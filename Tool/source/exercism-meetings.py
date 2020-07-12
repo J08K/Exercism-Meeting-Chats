@@ -4,30 +4,11 @@ from sys import argv
 
 class standardVariables():
     name = "J08K (Job van der Wal)"
-    defaultType = "web-txt"
+    default_type = "web-txt"
 
 class toMarkdown():
-    def __init__(self, filepath):
-        try:
-            with open(filepath, "r", encoding="utf8") as file:
-                fileData = emoji.demojize(file.read().replace("\n\n", "$$"))
-                fileData = fileData.split("\n")
-                toRemove = list()
-                self.__fileData = list()
-                for message, index in zip(fileData, range(len(fileData))):
-                    if message[2] not in digits and message[2]!= ":":
-                        self.__fileData[index-1] += " \n%s" % str(message.split("$$"))
-                        self.__fileData.append(message)
-                    else:
-                        message = message.split("$$")
-                        for item in message:
-                            if item == "":
-                                message.remove("")
-                        self.__fileData.append(message)
-                for index in toRemove:
-                    self.__fileData.pop(index)
-        except:
-            raise Exception("File not found: " % filepath)
+    def __init__(self, file_path, file_type):
+        ## TODO I have to rewrite this to support rtf files.
 
     def toMarkdown(self, filepath, date, name):
         with open(filepath, "w+", encoding="utf8") as file:
@@ -61,8 +42,8 @@ if __name__ == "__main__":
         elif argument.lower() == "--name":
             args["name"] = argv[index+1]
 
-        ## ? This is the type of way you are importing the chat. (client-txt, web-txt, client-rtf)
-        ## ? Defaults to: standardVariables.defaultType . 
+        ## ? This is the type of way you are importing the chat. (app-txt, web-txt, app-rtf)
+        ## ? Defaults to: standardVariables.default_type . 
         elif argument.lower() == "--type":
             args["type"] = argv[index+1]
 
