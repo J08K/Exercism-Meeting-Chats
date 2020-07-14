@@ -1,60 +1,110 @@
-import emoji
-from string import digits
+from emoji import emojize, demojize
 from sys import argv
+import os.path
+from datetime import date
+import json
 
-class standardVariables():
-    name = "J08K (Job van der Wal)"
-    default_type = "web-txt"
+## TODO: Add a progress bar.
 
-class toMarkdown():
-    def __init__(self, file_path, file_type):
-        ## TODO I have to rewrite this to support rtf files.
+standard_name = "Job van der Wal (J08K)"
 
-    def toMarkdown(self, filepath, date, name):
-        with open(filepath, "w+", encoding="utf8") as file:
-            file.write("# Meeting of %s\n\n" % date)
-            for line in self.__fileData:
-                if len(line[0]) == 1: pass
-                else: file.write(emoji.emojize("_%s_\n\n**%s**\n\n%s\n\n---\n" % (line[0], line[1].replace("Me", name), line[2])))
-            file.write("# End of meeting")    
-        return(True)
+class input_parser():
+
+    file_path = str()
+
+    def __init__(self, file_path: str):
+        if os.path.isfile(file_path):
+            self.file_path = file_path
+        else:
+            raise Exception(f"File {file_path} does not exist in directory!")
+
+    def rtf_parse(self):
+        with open(self.file_path, "r") as file:
+            file = demojize(file.read())
+        file = file.split("\n")
+        
+        messages = list()
+        for line in file:
+            new_line = line.split(" (to Everyone)\\b0 : \\cf1 ")
+            if len(new_line) == 2:
+                new_line[0] = new_line[0][7:]
+                new_line[1] = new_line[1][:-8]
+                messages.append(dict(user=new_line[0], time=new_line[1][:5], message=new_line[1][7:]))
+        return messages
+
+    def txt_parse(self):
+        pass
+
+    def md_parse(self):
+        pass
+
+class output_parser():
+    data = list()
+    date = str()
+
+    def __init__(self, chat_data: list, date: str, username=None):
+        if username != None:
+            for message in len(chat_data):
+                if chat_data[message]["user"] == "Me":
+                    chat_data[message]["user"] = username
+        self.data = chat_data
+        self.date = date
+
+    def to_markdown(self):
+        pass
+
+    def to_json(self):
+        with open(self.date+".json", "w+") as file:
+            json.dump(self.data, file, indent=4)
 
 if __name__ == "__main__":
     args = dict()
     for argument, index in zip(argv, range(len(argv))):
-        
-        ## ? The name of the output file.
-        ## ? Defaults to: The name of the input file, but with ".md".
-        if argument.lower() == "--output": 
-            args["output"] = argv[index+1]
-
         ## * The name of the input file. REQUIRED
-        elif argument.lower() == "--input":
+        if argument.lower() == "--input":
             args["input"] =  argv[index+1]
         
-        ## ? The date of the meeting.
-        ## ? Defaults to: The current date on the pc.
+        ## * The date of the meeting.
+        ## * Defaults to: The current date on the pc.
         elif argument.lower() == "--date":
             args["date"] = argv[index+1]
         
-        ## ? The name of the "Me" user in the chat (Which is the person who copied it).
-        ## ? Defaults to: standardVariables.name . 
+        ## * The name of the "Me" user in the chat (Which is the person who copied it).
+        ## * Defaults to: "Job van der Wal (J08K)" . 
         elif argument.lower() == "--name":
             args["name"] = argv[index+1]
 
-        ## ? This is the type of way you are importing the chat. (app-txt, web-txt, app-rtf)
-        ## ? Defaults to: standardVariables.default_type . 
-        elif argument.lower() == "--type":
-            args["type"] = argv[index+1]
+        ## * The type of file the program should output.
+        ## * Defaults to: "markdown"
+        elif argument.lower() == "--output":
+            args["output"] = argv[index+1]
+
+    chat = {}
 
     if "input" in args:
-        process = toMarkdown(args["input"])
-        args["name"] = args["name"] if "name" in args else standardVariables.name
-        args["output"] = args["output"] if "output" in args else args["input"][:-4] + ".md"
-        if "date" not in args:
-            from datetime import date
-            args["date"] = date.today()
-        if process.toMarkdown(args["output"], args["date"], args["name"]):
-            print("\nOutput file: %s\n" % args["output"])
+        if args["input"][-4:] == ".txt":
+            chat = input_parser(args["input"]).txt_parse()
+        elif args["input"][-4:] == ".rtf":
+            chat = input_parser(args["input"]).rtf_parse()
+        else:
+            raise Exception("Not a valid file format (yet)!")
+
+    if chat != {}:
+
+        ## * Checks if date has been entered, else defaults to today's date.
+        args["date"] = date.today() if "date" not in args else args["date"]
+
+        ## * Checks if name has been entered ("which will replace the username "me" in the chat), else defaults to `standard_name`
+        args["name"] = standard_name if "name" not in args else args["name"]
+
+        ## * 
+        container = output_parser(chat, args["date"], username=args["name"] if args["input"][-4:] == ".txt" else None)
+
+        if "output" not in args or args["output"].lower() == "md" or args["output"].lower() == "markdown":
+            container.to_markdown()
+        elif args["output"].lower() == "json":
+            container.to_json()
+
     else:
-        raise Exception("No input file given!")
+        ## TODO Make UI, if you just want to run the program, without arguments.
+        raise Exception("No input file was given!")
