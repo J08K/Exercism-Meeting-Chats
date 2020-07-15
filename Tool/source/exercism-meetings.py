@@ -1,5 +1,5 @@
 from emoji import emojize, demojize
-from sys import argv
+from sys import argv, stdout
 import os.path
 from datetime import date
 import json
@@ -56,6 +56,44 @@ class output_parser():
     def to_json(self):
         with open(self.date+".json", "w+") as file:
             json.dump(self.data, file, indent=4)
+
+class progress_bar():
+
+    progress = 0
+    end = int()
+    title = str()
+    title_color = "\u001b[31m"
+    reset_color = "\u001b[0m"
+    done_color = "\u001b[32m"
+    size = int()
+    attribute = str() ## ? What to show after the last bit. e.g. ""
+
+    def __init__(self, end: int, title: str, attribute: str, size=40):
+        self.end = end
+        self.title = title
+        self.size = size
+        self.attribute = attribute
+        length = self.size+len(str(self.end))+len(self.attribute)+9
+        stdout.write(f"{self.title_color}[{self.title}]{self.reset_color}: 0% ["+"-"*self.size+f"] 0/{self.end} {self.attribute}"+chr(8)*length)
+        stdout.flush()
+
+    def add_progress(self, to_add: int):
+        self.progress += to_add
+        length = self.size+len(str(round(self.progress/self.end*100)))+len(str(self.progress))+len(str(self.end))+len(self.attribute)+7
+        bar = "["+"#"*(self.percent()-(1 if self.percent(True) == 0 else 0))+("/" if self.percent(True) != 0 else "")
+        bar = bar+"-"*(self.size+1-len(bar))+"]"        
+        stdout.write(f"{round(self.progress/self.end*100)}% "+bar+f" {self.progress}/{self.end} {self.attribute}"+chr(8)*length)
+        stdout.flush()
+
+    def percent(self, selector=False):
+        if not selector:
+            return round(self.progress/self.end*self.size)
+        else:
+            return round(self.progress/self.end*(self.size))%2
+
+    def end_progress(self):
+        stdout.write(f"100% {self.done_color}["+"#"*self.size+f"]{self.reset_color} {self.progress}/{self.end} {self.attribute}")
+        stdout.flush()
 
 if __name__ == "__main__":
     args = dict()
