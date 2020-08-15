@@ -1,0 +1,755 @@
+{
+ "date": "2020-08-14",
+ "chat": [
+  {
+   "user": "Sascha",
+   "time": "18:02",
+   "message": "hi"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "18:02",
+   "message": "hey, yes"
+  },
+  {
+   "user": "Angelika Tyborska",
+   "time": "18:03",
+   "message": "that's the saddest meal ever"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:03",
+   "message": "\\u55357?\\u56397?"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "18:04",
+   "message": ".. I washed the house .. less fun"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:04",
+   "message": "I have some plum cake here "
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "18:04",
+   "message": "Washing a house sounds fun :D"
+  },
+  {
+   "user": "BethanyG",
+   "time": "18:05",
+   "message": "I have plums...really ripe and sweet."
+  },
+  {
+   "user": "Sascha",
+   "time": "18:05",
+   "message": ":D"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:05",
+   "message": "a house near ours burned down recently after someone tried to kill a wasp with deo and a lighter..."
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "18:05",
+   "message": "Peaky f-ing Blinders!"
+  },
+  {
+   "user": "KOTP",
+   "time": "18:05",
+   "message": "Housefire Nov 1 2017.  Was homeless until April of 2018.  So I hope you aren't in the same position, but feel for those that are now."
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:05",
+   "message": "Oh wow"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "18:07",
+   "message": "\\u55357?\\u56693?\\u65039?\\u8205?\\u9792?\\u65039?sneaky"
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:12",
+   "message": "Discussion I mentioned: https://github.com/exercism/v3/discussions/1467"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "18:13",
+   "message": "I think there is also some here: https://github.com/exercism/v3/discussions/2164"
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:18",
+   "message": "Thanks Tim! That looks much more relevant :)"
+  },
+  {
+   "user": "Alexei",
+   "time": "18:20",
+   "message": "What about some kind of budget - how many unfinished exercises the student can have at the same time? This way the student would be motivated to finish exercises."
+  },
+  {
+   "user": "Brooks",
+   "time": "18:21",
+   "message": "I think that's a good idea, somewhat similar to how side-exercises are handled at the moment"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:23",
+   "message": "Phew, It's hard to talk right now, I'm filled with adrenaline from my bike ride."
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:23",
+   "message": "haha. Fun!"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:23",
+   "message": "Yes, definetly!"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "18:24",
+   "message": "I think the conditions for how it fininshes depends on the expectation of both when they enter the interaction.  What are the thoughts about how to guide the mentoring process since it isn't about the previous \"gatekeeping\" that it previously was"
+  },
+  {
+   "user": "Jeremy Walker",
+   "time": "18:25",
+   "message": "Tim - exactly what Tai is about to say I think. I agree entirely."
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "18:25",
+   "message": "Ya, as I wa typing it, he seems to be talking through my thought"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:26",
+   "message": "So if a mentor says that a mentoring is finished and wants the student to agree, the mentor just clicks the resolv conversation button. The students gets a message and can either agree or dissagree, so what if the student dissagrees and they'll get 'one last question or message'?"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "18:29",
+   "message": "The mentor is likely the one who knows whether there is more, but it doesn't necessarily mean more needs to be reached in that particular conversation."
+  },
+  {
+   "user": "KOTP",
+   "time": "18:30",
+   "message": "That part is great.  Sometimes we get what we need from an exercise at a point.  Later we realize that there is more to learn from that exercise."
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:31",
+   "message": "I think the focus should be at the cooperation of the mentor and the student. So highlight the \"Resolve if student wants to\" button and make the \"Resolve anyway\" an option"
+  },
+  {
+   "user": "KOTP",
+   "time": "18:31",
+   "message": "(that part) being where the communication can stop, but isn't forcibly \"stopped\"."
+  },
+  {
+   "user": "Pedro Gaspar",
+   "time": "18:31",
+   "message": "I think it makes sense to allow them to continue talking, even if the mentoring is technically completed."
+  },
+  {
+   "user": "Angelika Tyborska",
+   "time": "18:31",
+   "message": "As a mentor, I try to say all that I want to say all at once at the very beginning, and then wait for questions. With that process, it makes more sense for the student to decide they have no more questions (because I already said everything I wanted to say)"
+  },
+  {
+   "user": "KOTP",
+   "time": "18:32",
+   "message": "They are ready for the additional information that is available to be learned from that exercise... exactly."
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:33",
+   "message": "Maybe don't lock the conversation so neither party can send a message, but instead make it so that you wont receive messages on that converstation (so that that one person can blow off some steam and doesn;t stay as toxic to other people)."
+  },
+  {
+   "user": "Pedro Gaspar",
+   "time": "18:34",
+   "message": "Another approach that may be worth looking at is what most customer support products (like Intercom, etc) do: you as the support person can close a conversation at any time, removing it from your Inbox, but any response from the user will re-open the conversation and move it back to your In"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "18:34",
+   "message": "Mark, I've felt that reading a lot of the mentoring discussions. The students just wanna get passed the barrier and don't care."
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:34",
+   "message": "As a mentee I have felt that!"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:34",
+   "message": "Yes exactly, tai"
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "18:35",
+   "message": "@Taiyab - hit some of those types - but not all the time luckily"
+  },
+  {
+   "user": "Pedro Gaspar",
+   "time": "18:35",
+   "message": "Makes sense!"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "18:35",
+   "message": "Or if they had an option to direct their mentoring: \"Help me solve this problem, I'm stuck\", \"I got it to pass the tests, but it feels like it needs improvement here\", \"I'm looking for blanket validation and not really interested in learning\""
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:37",
+   "message": "Just a question. Is there any way in the current version of Exercism to report any user in a way that's not via Slack?"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:38",
+   "message": "Email abuse@exercism.io"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:38",
+   "message": "(good job, Google: https://files.internetwolke.ovh/2020/08/firefox_BLVb6aaAFY.png )"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:39",
+   "message": "And can we combine that somehow in v3 with the \"locking a conversation\" feature. So for example a penalty on your Xp or such or a points system (like a driver's license)"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:40",
+   "message": "Haha @Sascha, we need to make ExErcism more popular than ExOrcism XD"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "18:41",
+   "message": "You're not trying to fix their code. You're trying to fix their mind :D"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:41",
+   "message": "lol"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:41",
+   "message": ":D"
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:41",
+   "message": "New brand: mindfix.io"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:42",
+   "message": "Buying the domain as we speak"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "18:42",
+   "message": "that's ann expensive TLD"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:42",
+   "message": "$29"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:44",
+   "message": "Mentee?"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "18:44",
+   "message": "Manatee? :D"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:44",
+   "message": "> A person who is advised, trained, or counselled by a mentor."
+  },
+  {
+   "user": "KOTP",
+   "time": "18:45",
+   "message": "Accurate depiction.  The story of the code."
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:45",
+   "message": "Fluency!"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:47",
+   "message": "\\u55357?\\u56399?"
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:47",
+   "message": "How do you feel about emojis?"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:47",
+   "message": "\\u55357?\\u56881?"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:48",
+   "message": "I'll downvote the issue that documents that"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:48",
+   "message": "out of principle"
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:48",
+   "message": "haha. Yes!"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:48",
+   "message": "\\u55358?\\u56596?"
+  },
+  {
+   "user": "Jeremy Walker",
+   "time": "18:49",
+   "message": "https://exercism-team.slack.com/archives/CR91YFNG3/p1597427333457600"
+  },
+  {
+   "user": "KOTP",
+   "time": "18:49",
+   "message": "Interpretation is every thing\\'85 and the readres current mood has to do with that."
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "18:49",
+   "message": "\\u55358?\\u56596?"
+  },
+  {
+   "user": "KOTP",
+   "time": "18:49",
+   "message": "I thought that emoji was \"contemplation\"."
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:49",
+   "message": "well played Tim."
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:49",
+   "message": "KOTP: my problem is I don't know how to interpret them to begin with."
+  },
+  {
+   "user": "KOTP",
+   "time": "18:50",
+   "message": "I can't usually see them to interpret them to be with."
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "18:50",
+   "message": "\\u55358?\\u56708?"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:50",
+   "message": "how is \"sending someone to the moon\" not negative \\u55358?\\u56596?"
+  },
+  {
+   "user": "Angelika Tyborska",
+   "time": "18:50",
+   "message": "I never understood \\u55357?\\u56495?..."
+  },
+  {
+   "user": "KOTP",
+   "time": "18:50",
+   "message": "When NASA does it?"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:50",
+   "message": "LOL"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:51",
+   "message": "Please remove the 100 emoji... It is so confusing to me"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:51",
+   "message": "XD"
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:51",
+   "message": "Sascha: you have slain the imperialist scales from my US eyes"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:51",
+   "message": "right, replace it with 1000"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:51",
+   "message": "YES"
+  },
+  {
+   "user": "Pedro Gaspar",
+   "time": "18:51",
+   "message": "\"What's that exploding pizza?\" (this is a joke)"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "18:51",
+   "message": "We should replace 100 with >9000"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:52",
+   "message": "*9001"
+  },
+  {
+   "user": "KOTP",
+   "time": "18:52",
+   "message": "I have no idea what you are talking about... top left what?"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:52",
+   "message": "OVER 9000!!!!"
+  },
+  {
+   "user": "Sascha",
+   "time": "18:52",
+   "message": "I think we should have a markathon where we go through all 3304 emoji and vote on them"
+  },
+  {
+   "user": "Jeremy Walker",
+   "time": "18:52",
+   "message": "KOTP: Image at https://exercism-team.slack.com/archives/CR91YFNG3/p1597427360458200"
+  },
+  {
+   "user": "BethanyG",
+   "time": "18:52",
+   "message": "Can we pick a different \"skin\" color than the \"default\" yellow?"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:52",
+   "message": "Is that a good idea?"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:52",
+   "message": "@bethanyG"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "18:53",
+   "message": "I'm sure 100 is used in some weird ways by Gen Z."
+  },
+  {
+   "user": "Sascha",
+   "time": "18:53",
+   "message": "I'd like the thumbsup_all colour animation from Slack as well"
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:53",
+   "message": "Great point @Isaac"
+  },
+  {
+   "user": "KOTP",
+   "time": "18:54",
+   "message": "Thumbs up is \"panic, have to surface\" so not universal.  But understandable.  Thumbs down is all good, let's submerge, let's get into it!  So it is definitely a good thing."
+  },
+  {
+   "user": "Pedro Gaspar",
+   "time": "18:54",
+   "message": "Question: would these be marking the whole conversation or specific messages, like in Slack?"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "18:54",
+   "message": "http://en.localconcept.com/blog/2019/07/17/emojis/"
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:54",
+   "message": "Is this not a discussion of communicating using language versus visual images, i.e. icons?"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:55",
+   "message": "Maybe not too many \"happy\" emojis, so that people don't get the feeling that we are forcing it down their throat."
+  },
+  {
+   "user": "KOTP",
+   "time": "18:55",
+   "message": "Right.  The context of github though makes it a bit more contextually defined."
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "18:55",
+   "message": "That's very true KOTP"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:56",
+   "message": "What about a green check emoji?"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "18:56",
+   "message": "That link has lots of good information about cultural implications of emoji"
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "18:56",
+   "message": "Hollywood creates facts!?"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "18:57",
+   "message": "My boy Apu"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:58",
+   "message": "My ideas for emojis: - Happy Jeremy, Sad Jeremy, Confused Jeremy, Crying JEremy"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "18:58",
+   "message": "https://www.aaai.org/ojs/index.php/ICWSM/article/download/3224/3092/"
+  },
+  {
+   "user": "KOTP",
+   "time": "18:58",
+   "message": "Is purple a color blindness safe color?"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:58",
+   "message": "And ofcourse the \"Talking DJ\" emoji"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "18:59",
+   "message": "or \"OFF-TOPIC DJ\" emoji"
+  },
+  {
+   "user": "Roelof Wobben",
+   "time": "18:59",
+   "message": "@jermy , it is looking you are talking in a very small room "
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:00",
+   "message": "What about something along the lines of google's phrase suggestion when texting? Providing some quick buttons for \"Sounds good!\", \"I'll look into that\", etc"
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "19:00",
+   "message": "How do we reliably gather data about the experiences of 99.9% of people globally?"
+  },
+  {
+   "user": "Pedro Gaspar",
+   "time": "19:00",
+   "message": "\\u9989? might be a good "
+  },
+  {
+   "user": "Sascha",
+   "time": "19:00",
+   "message": "not allowing emoji is the same as banning characters from certain languages...."
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "19:01",
+   "message": "Is the eyes emoji something we could add instead of the thinking emoji?"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "19:01",
+   "message": "Or is that also something that is not fully universal"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:01",
+   "message": "also, julia track has an emoji exercise so if you can't use them in comments, it breaks the exercise :P "
+  },
+  {
+   "user": "KOTP",
+   "time": "19:01",
+   "message": "I use eyes to indicate I have seen and purposefully seen something."
+  },
+  {
+   "user": "Sascha",
+   "time": "19:01",
+   "message": "eyes are also used in like a \"wtf are you doing\" meaning"
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "19:01",
+   "message": "funny i use eyes to mean \"I'll take a look\" / \"I'll look into that\""
+  },
+  {
+   "user": "Pedro Gaspar",
+   "time": "19:02",
+   "message": "yeah ^"
+  },
+  {
+   "user": "Pedro Gaspar",
+   "time": "19:02",
+   "message": "(the wtf are you doing)"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:02",
+   "message": "just link to emojipedia?"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:02",
+   "message": "That's what Github does Job. Labels the emoji."
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "19:02",
+   "message": "AH"
+  },
+  {
+   "user": "KOTP",
+   "time": "19:02",
+   "message": "That works for non-graphial environment as well."
+  },
+  {
+   "user": "Pedro Gaspar",
+   "time": "19:02",
+   "message": "yep, labels help a lot I think"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "19:03",
+   "message": "Didnt know that @Taiyab, thank you!"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:03",
+   "message": "You're censoring language and culture by not allowing them, or pre-selecting them."
+  },
+  {
+   "user": "KOTP",
+   "time": "19:03",
+   "message": "(for the definition of emoji) "
+  },
+  {
+   "user": "KOTP",
+   "time": "19:03",
+   "message": "Yes, because I can't see them."
+  },
+  {
+   "user": "Pedro Gaspar",
+   "time": "19:03",
+   "message": "I think the problem is \"the English language\" is a tricky subject to people who don't have it as a first language"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:04",
+   "message": "\\u8987?"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:04",
+   "message": "(also it's emoji, no s! D:)"
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "19:05",
+   "message": "Quick summary of the prescriptive descriptive debate: https://www.ling.upenn.edu/courses/ling001/prescription.html"
+  },
+  {
+   "user": "BethanyG",
+   "time": "19:05",
+   "message": "Emoji work as URLs too."
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "19:06",
+   "message": "put emojis in the exercism.io url"
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "19:06",
+   "message": "ah, neat!"
+  },
+  {
+   "user": "BethanyG",
+   "time": "19:06",
+   "message": "Let me find the article..  will paste in Slack."
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "19:06",
+   "message": "API token with an emoji in it"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "19:06",
+   "message": "PASSWORDS ARE EASY"
+  },
+  {
+   "user": "William Neumann",
+   "time": "19:07",
+   "message": "https://i\\u10084?.ws"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "19:07",
+   "message": "Will put the chat on the meetings repo"
+  },
+  {
+   "user": "Job van der Wal (J08K)",
+   "time": "19:07",
+   "message": "Trying to keep that uptodate again :)"
+  },
+  {
+   "user": "efx (Eli Flanagan)",
+   "time": "19:08",
+   "message": "Use of the kernel necessitates ignorance."
+  },
+  {
+   "user": "Sascha",
+   "time": "19:08",
+   "message": "\\u55357?\\u56489?.la exists too"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:08",
+   "message": "\\u55357?\\u56395?"
+  },
+  {
+   "user": "Pedro Gaspar",
+   "time": "19:08",
+   "message": "Cya!"
+  }
+ ]
+}
