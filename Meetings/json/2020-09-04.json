@@ -1,0 +1,775 @@
+{
+ "date": "2020-09-04",
+ "chat": [
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:02",
+   "message": "SHIREBOOM"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:03",
+   "message": "Writing TPS reports at the office, DJ?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:03",
+   "message": "vrijmibo!"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:03",
+   "message": "ffmpeg -f dshow -show_video_device_dialog true -i video=\"USB-videoapparaat\""
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:03",
+   "message": "(it's on wiktionairy @Tim)"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:03",
+   "message": "(search it)"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:04",
+   "message": "BROOKS GOT A HAIRCUT"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:04",
+   "message": "https://en.wiktionary.org/wiki/vrijmibo"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:04",
+   "message": "cool"
+  },
+  {
+   "user": "BethanyG",
+   "time": "19:04",
+   "message": "WOW"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:05",
+   "message": "Summer vacation"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:05",
+   "message": "summer vacation"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:05",
+   "message": "Haha thanks nice people <3"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:05",
+   "message": "Jeremy is like: \"I'm bugging off after this so let's annoy DJ\""
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:06",
+   "message": "We will be emoji-less for a month. :'("
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:06",
+   "message": "That's what you get for pushing TOML :P"
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "19:06",
+   "message": "how is that different than normal?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:06",
+   "message": "\\u55357?\\u56833?\\u55357?\\u56833?\\u55357?\\u56833?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:07",
+   "message": "Karloooooo"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:08",
+   "message": "Erik has a lot of time"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:08",
+   "message": "TIM MADE A JS EXERCISE"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:08",
+   "message": "and it's great"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:09",
+   "message": "so \\u55358?\\u56631?\\u55356?\\u57341?\\u8205?\\u9794?\\u65039?\\\\"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:09",
+   "message": "you reviewed 4 PRs today"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:09",
+   "message": ":P"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:09",
+   "message": "Erik is a 10x dev, give him more"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:09",
+   "message": "I reviewed 40 PRs today \\u55358?\\u56631?\\u55356?\\u57341?\\u8205?\\u9794?\\u65039?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:09",
+   "message": "does that make me 100x?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:09",
+   "message": "or just xxx"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:09",
+   "message": "100x more annoying..."
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:09",
+   "message": "\\u55357?\\u56424?\\u8205?\\u10084?\\u65039?\\u8205?\\u55357?\\u56459?\\u8205?\\u55357?\\u56424?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:10",
+   "message": "You're not doing anything until you had a break"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:13",
+   "message": "PS"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:13",
+   "message": "yeh"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:14",
+   "message": "DJx3!"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:14",
+   "message": "(This is truth, I have the chat receipts to prove it)"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:14",
+   "message": "I'm fine tho. I sleep like 5 hours a night now!"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:15",
+   "message": "DJx4!"
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "19:15",
+   "message": "DJ is taking over the screens!"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:15",
+   "message": "4x"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:15",
+   "message": "(trying to become a 10x dev)"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:15",
+   "message": "(At least Tim laughs about my stupid jokes :X)"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:16",
+   "message": "I have a long list of people who received my aubergine"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:16",
+   "message": "but probably not CoC approved to discuss this"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:16",
+   "message": "TOML"
+  },
+  {
+   "user": "Jeremy Walker (iHiD)",
+   "time": "19:16",
+   "message": "\\u55357?\\u56473?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:17",
+   "message": "I'd probably be capable at physical altercations at the \"highest high\" or \"lowest low\" of that :("
+  },
+  {
+   "user": "Jeremy Walker (iHiD)",
+   "time": "19:17",
+   "message": "We still talking about aubergines?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:17",
+   "message": "\\u55356?\\u57158?"
+  },
+  {
+   "user": "Bob",
+   "time": "19:17",
+   "message": "Thunderstorm here in Texas, so unplugging. Have a great day, everybody!"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:17",
+   "message": "Be safe!"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:18",
+   "message": "I like you too Brooks"
+  },
+  {
+   "user": "Brooks (TheLostLambda)",
+   "time": "19:18",
+   "message": "<3"
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "19:18",
+   "message": "no sexprs?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:18",
+   "message": "\\u55357?\\u56847? \\u55357?\\u56858?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:18",
+   "message": "(I just don't like yaml)"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:19",
+   "message": "\"condolences\""
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:19",
+   "message": "(he has an evening off)"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:20",
+   "message": "(wait until you get Anisa's)"
+  },
+  {
+   "user": "Zuzanna Kru",
+   "time": "19:20",
+   "message": "\\u55357?\\u56834?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:20",
+   "message": "\\u10084?\\u10084?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:20",
+   "message": "woooooo"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:20",
+   "message": "\\u55356?\\u57225?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:22",
+   "message": "NICE"
+  },
+  {
+   "user": "Brooks (TheLostLambda)",
+   "time": "19:22",
+   "message": "Emacs <3"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:22",
+   "message": "(I still like you Brooks, even after that comment)"
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "19:23",
+   "message": "@brooks - the old emacs exercism integration can be resurrected"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:24",
+   "message": "(and it's fixed now)"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:26",
+   "message": "I was gonna say PS"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:26",
+   "message": "and Improvement issues"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:26",
+   "message": "(instead of the markathon \"implement new\" issues)"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:27",
+   "message": "Has anyone here used Teams?"
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "19:27",
+   "message": "I used teams YEARS ago."
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:27",
+   "message": "What'd you use it for?"
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "19:27",
+   "message": "maybe pre-v2?"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:28",
+   "message": "Resurrect the php track with me! (it runs 78.9% of the internet)"
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "19:28",
+   "message": "team of developers where i worked all joined so we could see each others submissions and comment easily."
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:28",
+   "message": "voluntold to talk"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:28",
+   "message": "I love how DJ pops in with a comment with some techno in the back"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:28",
+   "message": "HAH"
+  },
+  {
+   "user": "KOTP (Vic)",
+   "time": "19:28",
+   "message": "78% of the internet?  Do you mean \"Web\"?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:29",
+   "message": "Interwebs* @ Vic"
+  },
+  {
+   "user": "KOTP (Vic)",
+   "time": "19:30",
+   "message": "Good.  Thought something changed drastically."
+  },
+  {
+   "user": "KOTP (Vic)",
+   "time": "19:30",
+   "message": "There is so much that isn't \"web\" on the internet."
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:30",
+   "message": "Oh yeah"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:30",
+   "message": "I agree @@vic"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:33",
+   "message": "SHIREBOOM"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:33",
+   "message": "\\u55357?\\u56485?\\u55357?\\u56485?\\u55357?\\u56485?"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:33",
+   "message": "I like SHIREBOOM"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:35",
+   "message": "I'm not a native speaker and \"simple english\"-speakers I don't want on my track to proofread. COME ON"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:35",
+   "message": "jk"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:35",
+   "message": "come help"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:39",
+   "message": "YES"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:40",
+   "message": "(THE EMOJIS ARE BACK! WB Sascha)"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:41",
+   "message": "(hi \\u55357?\\u56395?)"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:41",
+   "message": "\\u55357?\\u56395?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:43",
+   "message": "YES"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:43",
+   "message": "\\u55357?\\u56496?\\u55357?\\u56496?\\u55357?\\u56496?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:43",
+   "message": "done with the bootcamps burning out our mentors"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:43",
+   "message": "\\u9757?\\u65039?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:44",
+   "message": "500?"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:44",
+   "message": "20k"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:44",
+   "message": "like ror real"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:44",
+   "message": "only 500?"
+  },
+  {
+   "user": "BethanyG",
+   "time": "19:44",
+   "message": "UGH.  Bootcamps.  Love and Hate."
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:45",
+   "message": "good"
+  },
+  {
+   "user": "KOTP (Vic)",
+   "time": "19:45",
+   "message": "Concentrated learning is good, but long term high intensivity while learning just doesn't seem intuitive."
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:46",
+   "message": "Never used teams"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:46",
+   "message": "someone echos"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:46",
+   "message": "It's Jeremy"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:46",
+   "message": "Erik's mic is on too"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:46",
+   "message": "It is"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:47",
+   "message": "but he's wearing headphones"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:47",
+   "message": ";)"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:47",
+   "message": "I have a headphone"
+  },
+  {
+   "user": "Zuzanna Kru",
+   "time": "19:47",
+   "message": "Never used, I didn't even know about teams \\u55357?\\u56839?"
+  },
+  {
+   "user": "Jeremy Walker (iHiD)",
+   "time": "19:48",
+   "message": "Zuzanna: https://teams.exercism.io - It's *very* rudamental"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:48",
+   "message": "(just need to be able to delete things, and have tracks haha, not \"exercises\")"
+  },
+  {
+   "user": "Zuzanna Kru",
+   "time": "19:48",
+   "message": "yeah, I just looked for it on the main page to make sure I understand what you're talking about :P"
+  },
+  {
+   "user": "KOTP (Vic)",
+   "time": "19:50",
+   "message": "I had to do the same thing, basically guide based on original \"track\" and do so in teams, where other students can see and feedback."
+  },
+  {
+   "user": "KOTP (Vic)",
+   "time": "19:52",
+   "message": "In a group \"classroom\" thing, that was key was being abe to get to the solutions even while being worked on."
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:52",
+   "message": "Yeah, so my recomm: don't merge them"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:52",
+   "message": "Have them both"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:52",
+   "message": "or pick one"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:54",
+   "message": "rudimen"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:55",
+   "message": "BETHANY"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:55",
+   "message": "(rudiment: RLRR LRLL)"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "19:55",
+   "message": "hahahaha"
+  },
+  {
+   "user": "Jeremy Walker (iHiD)",
+   "time": "19:57",
+   "message": "https://repl.it/"
+  },
+  {
+   "user": "BethanyG",
+   "time": "19:57",
+   "message": "I know it well!"
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "19:57",
+   "message": "REPL - read eval print loop"
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "19:57",
+   "message": "\"interactive console\" for the language"
+  },
+  {
+   "user": "BethanyG",
+   "time": "19:58",
+   "message": "all the cool kids have em."
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "19:58",
+   "message": "I have never been confused for one of the \"cool kids\""
+  },
+  {
+   "user": "BethanyG",
+   "time": "19:58",
+   "message": "repl.it has a classrooms feature - and team feature. "
+  },
+  {
+   "user": "Sascha",
+   "time": "19:59",
+   "message": "https://github.com/replit has parts of the infrastructure "
+  },
+  {
+   "user": "Sascha",
+   "time": "19:59",
+   "message": "wasm"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:59",
+   "message": "WebAssembly"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:59",
+   "message": "Getting old Jeremy"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "20:00",
+   "message": "Exercism Classroom and Exercism Peers/Teams could work"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "20:00",
+   "message": "Honesty box = good idea "
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "20:01",
+   "message": "we talked about this 1.5 years ago I think"
+  },
+  {
+   "user": "BethanyG",
+   "time": "20:01",
+   "message": "Agree.  Honesty box.  +"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "20:02",
+   "message": "\\u8987?"
+  },
+  {
+   "user": "Sascha",
+   "time": "20:05",
+   "message": "#teams has an amazing 13 members lol"
+  },
+  {
+   "user": "Derek-J (OfficeByte)",
+   "time": "20:05",
+   "message": "\\u55357?\\u56877?\\u55357?\\u56518? I miss you all already"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "20:05",
+   "message": "I'll copy out all the convos anyway :D"
+  },
+  {
+   "user": "Sascha",
+   "time": "20:05",
+   "message": "thx"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "20:05",
+   "message": "Enjoy your holiday!"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "20:05",
+   "message": "(I don't mean this convo Sasha!)"
+  },
+  {
+   "user": "Zuzanna Kru",
+   "time": "20:05",
+   "message": "Rest well Jeremy!"
+  },
+  {
+   "user": "Sascha",
+   "time": "20:06",
+   "message": "hf Jeremy"
+  },
+  {
+   "user": "Sascha",
+   "time": "20:06",
+   "message": "bye"
+  },
+  {
+   "user": "BethanyG",
+   "time": "20:06",
+   "message": "Bye!  Rest well!"
+  }
+ ]
+}
