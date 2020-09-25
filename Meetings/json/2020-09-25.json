@@ -1,0 +1,430 @@
+{
+ "date": "2020-09-25",
+ "chat": [
+  {
+   "user": "Sascha",
+   "time": "19:01",
+   "message": "\\u55357?\\u56395?"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:02",
+   "message": "I can hear you twice sometimes Jeremy"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:02",
+   "message": "I hear him twice too"
+  },
+  {
+   "user": "BethanyG",
+   "time": "19:02",
+   "message": "Yup. Me too."
+  },
+  {
+   "user": "BethanyG",
+   "time": "19:03",
+   "message": "You sound like you're rapping.  ;-)"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:03",
+   "message": "like an announcer at the fun fair"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:03",
+   "message": "yes"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:03",
+   "message": "yes "
+  },
+  {
+   "user": "Sascha",
+   "time": "19:03",
+   "message": "sounds awful tho :D"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:05",
+   "message": "to everyone who's joining for the first time: Jeremy is actually pronounced Jeremiah"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:06",
+   "message": ":D"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:06",
+   "message": "did they publish it in the UK yet or did you pay the horrendous shipping?"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:06",
+   "message": "Which book?"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:07",
+   "message": "Working in Public: The Making and Maintenance of Open Source Software by Nadia Eghbal"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:07",
+   "message": "better"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:07",
+   "message": "It's better"
+  },
+  {
+   "user": "Budh Ram (or BRG)",
+   "time": "19:07",
+   "message": "Better now"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:07",
+   "message": "nope"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:07",
+   "message": "nvm"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:07",
+   "message": "nevermind"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:07",
+   "message": "its back"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:17",
+   "message": "https://github.com/exercism/v3-website/"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:20",
+   "message": "its a bug"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:20",
+   "message": "i cant mute"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:20",
+   "message": "yes"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:20",
+   "message": "thx"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:20",
+   "message": "(@Jim: Nice drumset!)"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:22",
+   "message": "https://hacktoberfest.digitalocean.com/"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:22",
+   "message": "TL;DR 4 PRs = 1 T-shirt"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:23",
+   "message": "I think this year you could also choose to have them plant a tree/trees? instead of a t-shirt"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:23",
+   "message": "yes but they're really nice and comfy t-shirts"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:23",
+   "message": "not a good trade :P "
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:23",
+   "message": "But I already have three ;)"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:24",
+   "message": "https://juliacommunity.github.io/your-first-julia-pr/"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:25",
+   "message": "I think if we participate, we may want to promote it but not necessarily tag all issues. A lot of people seem to jump on everything that's unclaimed and tagged as #hacktoberfest in their language, without reading README or w/e so you end up invalidating plenty of PRs"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:26",
+   "message": "That seems like a good idea"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:26",
+   "message": "We could tag meta-issues for discovery instead"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:27",
+   "message": "yea that sounds good"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:28",
+   "message": "or one per language in case people search `label:hacktoberfest language:python`"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:31",
+   "message": "I'd rather have many people pass along than having to tag lots of PRs as invalid"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:31",
+   "message": "(for people unfamiliar with it: tagging them as invalid removes them from their hacktoberfest count so their PR doesn't count toward the t-shirt)"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:32",
+   "message": "no"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:32",
+   "message": "just doing"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:34",
+   "message": "somewhat of a tangent: we could also organise a specific Hacktoberfest event day, they try to push that a lot this year it seems"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:34",
+   "message": "What's happened in previous years of Hacktoberfest?"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:34",
+   "message": "If it's mostly spam, it'll be difficult to overcome"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:34",
+   "message": "v2 issues yes, v3 not so much"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:36",
+   "message": "Might be good to use it more as an opportunity for marketing, or pushing people down the funnel of doing something hard."
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "19:36",
+   "message": "There are people who are gonna wanna do challenging stuff"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:41",
+   "message": "https://hacktoberfest.digitalocean.com/eventkit/"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:44",
+   "message": "the way you describe it sounds like a good way to get cheap targetted advertisment for exercism if nothinig else"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:45",
+   "message": "https://github.com/exercism/problem-specifications/issues/1674"
+  },
+  {
+   "user": "BethanyG",
+   "time": "19:45",
+   "message": "Yes"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:45",
+   "message": "yes"
+  },
+  {
+   "user": "BethanyG",
+   "time": "19:45",
+   "message": "Ima reader.  :D "
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:45",
+   "message": "Im a yes"
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "19:46",
+   "message": "my lack of reading is not a comment upon you Erik :)"
+  },
+  {
+   "user": "Jim Miller",
+   "time": "19:46",
+   "message": "Not yet, no."
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:46",
+   "message": "Good!"
+  },
+  {
+   "user": "BethanyG",
+   "time": "19:46",
+   "message": "um...."
+  },
+  {
+   "user": "Budh Ram (or BRG)",
+   "time": "19:47",
+   "message": "Quite new to exercism still :) need a week or couple to get some insights but should be ready for hactoberfest ;)"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:47",
+   "message": "i hate it too "
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:47",
+   "message": "Sorry, cats were getting into something upstairs"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:47",
+   "message": "[canonical-te"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:47",
+   "message": "It's TOML!"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:48",
+   "message": "Let's change all of it to TOML!"
+  },
+  {
+   "user": "Brooks (TheLostLambda)",
+   "time": "19:48",
+   "message": "Are unlisted tests false by default?"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:49",
+   "message": "I believe so"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:50",
+   "message": "https://github.com/exercism/problem-specifications/issues/1674 btw"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:53",
+   "message": "It makes it clear that you considered a test but decided against adding it and you could potentially add context to why too"
+  },
+  {
+   "user": "Brooks (TheLostLambda)",
+   "time": "19:54",
+   "message": ":+1:"
+  },
+  {
+   "user": "Brooks (TheLostLambda)",
+   "time": "19:54",
+   "message": "(It was worth a try...)"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:56",
+   "message": "I liked the recent issue that involved math proofs"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:58",
+   "message": "(I didn't say that)"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:58",
+   "message": "My new example was futures vs promises :)"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:58",
+   "message": "^ a much better example indeed"
+  },
+  {
+   "user": "Sascha",
+   "time": "19:58",
+   "message": "I said the example was nonsense not that methods don't exist"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "19:59",
+   "message": "And you were right :)"
+  },
+  {
+   "user": "Tim (neenjaw)",
+   "time": "19:59",
+   "message": ">90% is good, but probably >95% is his normal"
+  },
+  {
+   "user": "Taiyab Raja (@taiyab)",
+   "time": "20:02",
+   "message": "I've got something to say but can only unmute when I'm about to talk!"
+  },
+  {
+   "user": "Mark Simpson (mjs)",
+   "time": "20:02",
+   "message": "trick? or treat?"
+  },
+  {
+   "user": "Erik (@ErikSchierboom)",
+   "time": "20:02",
+   "message": "Both? :P"
+  },
+  {
+   "user": "Sascha",
+   "time": "20:06",
+   "message": "\\u8987?\\u8987?\\u8987?\\u8987?\\u8987?\\u8987?\\u8987?"
+  },
+  {
+   "user": "Sascha",
+   "time": "20:06",
+   "message": "bye"
+  },
+  {
+   "user": "BethanyG",
+   "time": "20:06",
+   "message": "Bye"
+  }
+ ]
+}
